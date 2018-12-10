@@ -14,7 +14,7 @@
 - [ ] Add PSF events (including watching videos for self learning)
 - [ ] August 2016 Edinburgh ML
 - [ ] May 2016 RSS ambassador
-- [ ] Add in work based learning through Arctic Shores
+- [ ] Add in work based learning through Arctic Shores (E.g. R style guides)
 - [ ] Record my learning (Hadley books)
 - [ ] Add RSS ambassador Panorama activity
 - [ ] RSS Fact checking
