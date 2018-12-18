@@ -22,3 +22,4 @@
 - [ ] Data science RSS video 
 - [ ] Office hours - R4DS
 - [ ] STEM activities?
+- [ ] SciTech Xmas Conference
