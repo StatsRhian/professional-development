@@ -4,7 +4,7 @@ Personal Development
 
 To add
 
-* CPD files
-* Development plan
-* Cerfiticates?
-* Move C.V here?
+- [x]  CPD files
+- [ ] Development plan
+- [ ] Cerfiticates?
+- [ ] C.V here?
