@@ -25,6 +25,7 @@ Thoughts on how I would like to work.
 
 * Answer questions onstack overflow
 * Stay involved in Lancaster tech scene
+* Mentor others
 
 ## General :rocket:
 
