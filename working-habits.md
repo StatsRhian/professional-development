@@ -26,7 +26,7 @@ Thoughts on how I would like to work.
 * Answer questions onstack overflow
 * Stay involved in Lancaster tech scene
 
-# General :rocket:
+## General
 
 * Make stuff
 * Don't complain, take initiative and make changes
