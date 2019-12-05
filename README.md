@@ -6,5 +6,4 @@ To add
 
 - [x]  CPD files
 - [ ] Development plan
-- [ ] Cerfiticates?
-- [ ] C.V here?
+
