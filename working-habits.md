@@ -6,7 +6,7 @@ Thoughts on how I would like to work.
 
 * Write understandable git commits
 * Follow a personal / work style guide for R coding
-* Uswe lintr / styler for clean code
+* Use lintr / styler for clean code
 * Write a personal package for useful R functions
 
 ## Development and training :notebook:
@@ -14,7 +14,6 @@ Thoughts on how I would like to work.
 * Allocate time for R&D monthly
 * Review my CPD quarterly - book in calendar
 * Find a professional mentor
-* Regular mentoring sessions with James
 
 ## Work balance :runner:
 
