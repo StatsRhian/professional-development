@@ -1,5 +1,5 @@
 
-A list of work-related books to read
+A list of work-related books to read :books:
 
 ### R
 - [ ] [Advanced R](https://adv-r.hadley.nz/)
