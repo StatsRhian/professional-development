@@ -3,5 +3,5 @@ Professional Development
 ==============
 
 - [Working habits](https://github.com/trianglegirl/professional-development/blob/master/working-habits.md)
-- [Books to read](https://github.com/trianglegirl/professional-development/blob/master/books-to-read)
+- [Books to read](https://github.com/trianglegirl/professional-development/blob/master/books-to-read.md)
 - [Things to learn](https://github.com/trianglegirl/professional-development/blob/master/things-to-learn.md)
