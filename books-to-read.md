@@ -21,6 +21,7 @@ A list of work-related books to read :books:
 
 ### Programming :computer:
 
+- [ ] [Merely Useful: RSE R](https://merely-useful.github.io/r-rse/rse-style.html)
 - [ ] [The DevOps Handbook](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
 - [x] [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 - [ ] [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
