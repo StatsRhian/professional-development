@@ -12,6 +12,7 @@ A list of work-related books to read :books:
 - [ ] [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
 - [ ] [R4DS](http://r4ds.had.co.nz/introduction.html)
 - [ ] [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+- [ ] [R packages](http://r-pkgs.had.co.nz/)
 - [ ] [Tidy Mining with R](https://www.tidytextmining.com/)
 
 ### Python :snake:
