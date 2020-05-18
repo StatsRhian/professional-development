@@ -18,7 +18,7 @@ Thoughts on how I would like to work.
 
 ## Work balance :runner:
 
-* Excercise everyday
+* Exercise everyday
 * Block news & social media
 * Work hard, then log off
 
