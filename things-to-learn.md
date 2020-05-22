@@ -19,6 +19,10 @@
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)
 - [x] [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 
+### Bash skills
+- [ ] [Basic](https://swcarpentry.github.io/shell-novice/)  [2/7]
+- [ ] [Extras](http://swcarpentry.github.io/shell-extras/) 
+
 ### Data Science Pipeline
 
 - [ ] [Data Science process](https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/)
