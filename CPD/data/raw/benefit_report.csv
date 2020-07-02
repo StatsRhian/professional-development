@@ -1,4 +1,15 @@
 Title,Learning Hours,Activity Description,Benefit to Practice,Benefit to Users
+ DSI Company Partners' Workshop,0.0,"The Future of Applied Data Science – Prof Gordon Blair
+Gordon Blair, Distinguished Professor of Data Science, will share his thoughts on recent changes in applied data science and current trends.
+Peer Challenges – Partner Organisations
+Presentations will be delivered by a number of our partner organisations on an aspect of their use of data science. The talks have taken one of the following themes:
+- Current Challenge: An overview of a current challenge related to data science or analytics.
+- Solved Challenge: A data science/analytics problem that has been successfully addressed.
+- Our Future with Data Science: Similar to a ‘current challenge’ talk, but the speaker will share a broader view of their plans for the use of data science within their organisation.
+
+Building and Implementing Data Science Solutions – Dr Daniel Prince
+We will hold an interactive exercise in the form of a solution building game to examine the decisions
+made in tackling a data science challenge.",ASDF123,ASDF123
  First of a Kind (FoaK) 2 Rail Competition Briefing - York,2.0,"Do you have an innovative product and service that is ready for market exploitation, but has not yet been tested in a real-world railway environment?
 
 Or are you a railway organisation with a vision to upgrade and future proof your rolling stock, infrastructure or stations?
@@ -77,6 +88,30 @@ Combinations of traits and levels
 Inspector Help
 Automatic interview questions","The variety of talks from different departments of Arctic Shores made the session very interesting and beneficial for me. Working as a lone statistician in a psychology company, it's vital to connect with the other departments. The talk from the DataHub about ""Inspector Help"" highlighted functionality with the DataHub which I did not previously know about. The Psychologist provided a history of psychometrics which was fascinating and helped me understand where the development of our tests have come from. The client services team showcased a new product in development which I will be working on in the near future.
 I also gave a talk on my work exploring the relationship between traits and levels which was apparently very useful.","Understanding how the company works, and what projects other departments are working on is vital to providing a great service to our clients. "
+"Brand ""Me"": Lancaster Career Mentoring Event",0.5,"Presentation delivered by Nick Holmes,Sales Director at AMG Group Ltd
+
+He spoke about the importance of developing a personal brand and steps to create one.","I'm trying to grow and improve my professional 
+
+An important part of this is the brand I choose to portray. 
+Nick encouraged me to think about my target audience, and what aspects make me stand out against the crowd. 
+
+I believe that developing a strong personal brand will help me connect with potential clients.","Creating a strong personal brand forces me to define my skills, and act professionally. This will in turn provide a clearer, more professional service to my clients. Having a strong brand may also help my clients demonstrate to their stakeholders, the quality and calibre in my work."
+Broom Prep,0.0,ASDF123,ASDF123,ASDF123
+Career Mentor Launch,1.0,"Introduction for the career mentoring scheme I'm taking part in. 
+There was a one-hour session:
+
+What Skills Does a Lancaster Career Mentor Need?
+by Rob Pickersgill, Real Life Learning, Director, Coach - Trainer
+
+There was also networking time with other career mentors which I found really beneficial.",Rob's session on mentoring was really helpful. He discussed techniques such as empathy and active listening. He also encouraged me to reflect on what I wanted to get out of the scheme.,"I believe there is a strong link between mentoring and being a good consultant. 
+Rob's talk, and chatting with the other mentors gave me time to reflect on my consultancy skills, and in particular active listening."
+Career Mentoring,0.0,"Career Mentoring. 
+I've been mentoring two students who are interested in becoming data scientists. 
+One is an undergraduate, and one is a post-graduate. 
+The scheme runs from November 2019 - May 2020.",ASDF123,ASDF123
+Challenges in practical applied data science: Philip Jonathan,0.0,"Data science and associated fields of machine learning, machine vision, natural language processing and ""AI"" are seen as ""game-changing"" technologies in many commercial, scientific, governmental and academic spheres. The ease, size and speed of data acquisition, processing, connectivity and storage, combined with the easy availability of sufficient computational resources, mean that methods for empirical inference can be applied in an ever-increasing range of situations. Whereas the underlying inference problems are often of themselves technically rather mundane, the challenge lies in applying relatively well-known algorithms for statistical learning (which have typically existed in some form for decades) to problems of considerably increased scale, and enabling deployment of ""at line"" or real time solutions.
+
+This talk will outline some of the areas in which the ""digitalisation agenda"" and data science is impacting an organisation like Shell. Areas where data science is proving most beneficial will be summarised, as will current difficulties. For instance, we will consider the critical challenge of ""model assurance"" in applied data science, involving the development and implementation of in-situ methods for ""algorithm agnostic"" assessment and comparison of data-driven solutions to practical industrial problems.",ASDF123,ASDF123
 Code for Lancaster,1.0,"Code for Lancaster is a volunteer Civic Technology meetup.
 
 We were inspired by Code for Boston, and are made up of volunteer developers, designers, data geeks, citizen activists, and many others who look to use creative technology to solve civic and social problems.
@@ -95,6 +130,7 @@ For example: “How might we better enable locals to be aware of mental health s
 All projects must be open-source and freely available for their entire lifetime. We host all our project code on github, and if the project doesn’t involve code we will make it openly available in some other accessible way.  Projects of a political nature have to unbiased.
 
 Projects focused on open-data, political awareness and transparency are fair game, but projects to support a particular political viewpoint are not.","Useful networking session, mixing with full stack developers as well as data scientists and statisticians. ","A number of the topics came back to discussing the ""What services can we provide"" vs ""What services do the users actually want?"" These discussions made me re-think the services that we currently provide and encouraged me to focus on the customer. "
+Continuous Integration research,0.0,Watched talks on continuous integration strategies,ASDF123,ASDF123
 "Data Conversations: Keep it, throw it, put it in the vault.",1.0,"In this Data Conversation we want to talk about the long term value of data. How can we make sure that data is accessible and usable now and into the future? Should we be keeping all of our data and if not, how can we assess what has long term value?
 
 Come and share your data stories. We’d like to hear from:
@@ -105,6 +141,7 @@ People who’ve reused data.
 People who’ve lost data.
 People who’ve faced obstacles reusing data.
 People who’ve moved institutions and struggled to access their data","The speakers discussed their experiences with data, particularly how storing data that they hadn't expected to be useful was important in their analysis. We had some interesting discussions about lost data and personal data.",One of the first steps with users is discussing what data they have or deciding what data should be collected. Discussing best practises of data storage and collection will ensure we make the most of client's data.
+Data Science Career Talk,0.0,Delivered a careers talk at Lancaster University,ASDF123,ASDF123
 Digital Rail Summit,5.0,"Summit for Digital Rail:
 All day event including:
 
@@ -120,6 +157,32 @@ All day event including:
 ","As a new employee to Digital Rail, this was an invaluable experience to help me understand the full business, the different areas and challenges. 
 ","I now have a more thorough understanding of the market that Digital Rail operates in. 
 In particular, the session on value propositions was really insightful,.We have begun to build this into our product development, to ensure that we are meeting the customers' needs at all time by matching customer needs with a product solution. "
+Digital Rail: Summit,0.0,A bi-annual meeting of directors to discuss and plan the next year of the company.,ASDF123,ASDF123
+"DSI Invited Talk, Friday Morning Talk Series",0.0,"Edmund Ryan, School of Mathematics, University of Manchester
+
+Predicting the future repayment patterns of portfolios of non-performing debt using advanced statistical modelling.
+
+Debt is a prominent and open concern in society and the wider economy.  Individuals who have defaulted on their debt expect to be treated fairly during the collection process.  Arrow Global is a debt purchaser and debt management company.  It purchases portfolios of non-performing consumer debt in bulk from banks and other financial institutions at a reduced cost compared to their face value.  It then takes over the responsibility of collecting the debt.  What distinguishes Arrow from other debt management companies is its approach to treating customers fairly by taking into account the individual circumstances of each customer and then tailoring a payment plan which the customer can afford.  For example, customers are able to spread repayments over long periods of time, with many customers only paying £1 per month.  Arrow Global is also the only UK based debt management company to have approval from the Financial Conduct Authority.
+For decision making purposes, Arrow Global uses a stochastic statistical model to simulate the payment behaviour of each of its 6 million customers for 7 years into the future.  Due to the stochastic nature of the model, it must be run numerous times to minimise the Monte Carlo error.  Currently, the computational resources allow it to be run only five times per account, which is insufficient.  In collaboration with the School of Mathematics at the University of Manchester, Arrow is investigating novel statistical methods for carrying out up to 100+ model runs per account but with the same computing resources.  In this talk I will present current results that implement these methods and I will describe other methods that we believe will improve the performance, accuracy and utility of the model.
+
+",ASDF123,ASDF123
+DSI talk: Data Science and the ACM,0.5,"DSI Invited Talk, Friday Morning Talk Series 
+Speaker: Vicki Hanson
+Abstract: We are delighted to announce that ACM’s CEO Vicki Hanson will be visiting Lancaster and will give a short talk on ACM’s Data Science initiatives. All welcome.","Vicki talked mostly about the challenges when setting up a Data Science masters programme. from the perspective of a computer scientist. This encouraged me to reflect on my own data science learning journey, one pre-dominantly from the statistics side. It also made me consider the best way to teach these concepts when time is short.",Thinking about the best way to teach data science will structure and inform the way that I teach both statistics and programming in my training courses.
+DSI talk: Quantifying Input Modelling error in Simulation models – what is it and why does it matter?,0.5,"Lucy Morgan, a new lecturer in the Management School, gave a very interesting talk on simulation models. Lucy discussed how assessing inputs into a simulation model is an area often overlooked, both in terms of the uncertainty and biases that inputs have on model outputs. Lucy showed how these effects can be properly quantified and interpreted.","Input error is an important but often neglected area of simulation modelling. 
+Learning about what input error is and how I can best model it will be key to any future simulation modelling that I perform.","Any clients requiring simulation modelling will be reassured that I have thought about the possibility of input error, and have taken steps to quantify their effects on the model output.
+
+"
+EARL Conference,0.0,ASDF123,ASDF123,ASDF123
+Enabling Better Network Performance,0.0,RSSB Conference,ASDF123,ASDF123
+Florence Nightingale,1.0,I am presented a talk to a group of school children on Randomness and Probabilities. ,"Writing this talk made me think about the best way to explain complex concepts such as randomness to 16 year old girls. 
+
+There were also a number of excellent talks which gave me inspirations for other styles of teaching I could try.","As a professional female mathematician I think it's important to demonstrate to young girls what sort of career paths are possible for them. 
+I would hope that users of my service this see that as a worthwhile development, giving back to the STEM community. 
+
+Also, being asked to present at this workshop is respected. 
+
+Finally it demonstrates to my clients that I am able to convey complex statistical concepts in an understandable, digestible way."
 Her + Data MCR,1.0,"The goal of the community is to bring together women who work with data or who would like work in data – to support one another, share experiences and knowledge, establish meaningful connections and talk data. The community sets out to connect and inspire amazing data women with diverse expertise and experience so they can learn from each other — whether it’s students just embarking on their careers or seasoned data leaders.
 
 At this event, we’ll hear talks from some amazing women on the topics of Artificial Intelligence, Neural Networks, Machine Learning. So come along, ask questions and meet other women who love data!
@@ -147,7 +210,32 @@ IMechE NW RD - Challenging Times,2.0,"I was invited to present at the NW RD of t
 
 The Railway Division Chair, Andy Mellors, will examine the economic and wider societal benefits which the rail industry delivers and consider the current challenges facing the industry, the engineering profession and our Institution. The lecture will also address what the Railway Division should focus on, including what we need to do to in order to move with the times and attract the next generation of potential engineers.","The chairman's address by Andy Mellors gave me an excellent insight into the challenges that working in the railway can bring. 
 I met a PhD student who presented his research on using deep neural networks to identify bicycles. He introduced me to a couple of techniques which may be useful in our work. ",Presenting our research to members of the IMechE allowed me to to understand better the difficulties in getting our research on the trains.
+Instructor's webinar,0.0,a,a,a
+Interview candidates,0.0,Assisting in interviews for a junior data science position at Jumping Rivers,ASDF123,ASDF123
+Introduction to Python,8.0,"I attended a two day Introduction to Python course run by Jack Walton (Jumping Rivers)
+
+I have already done a little python programming but had not received formal training before.
+
+* Introduction to Python
+* Programming with Python
+
+Teaching + interactive workshops","As a data scientist, I frequently have to edit, format and write Python code. 
+Having formal training means I have more confidence in my coding and have a better understanding of the language.",Clients frequently come to us with Python code. By having a more formal knowledge of the language I will be able adapt their code and integrate it wit our data pipelines more easily.
+ISO9001 ,5.0,"My company (Digital Rail) decided to apply for ISO9001 certification. 
+I was put in charge of developing a quality management system and ensuring that it was robust enough to pass the certification.
+
+We passed first time and Digital Rail have ISO9001:2015 ceritication","I hadn't written any quality assessment documents before so this was all new to me. 
+
+I learnt how to write a quality management manual, and the key components required for one. I also learnt about the importance of constantly reviewing a QMS and the systems used to perform such reviews. 
+
+Personally, I feel knowledge of QMSs and how to write and maintain them will be important in any future roles, especially consultancy.","This has huge benefit to users of my service. By writing a QMS, this showcases that providing a quality service is of great importance to me. Writing a QMS demonstrates how we will deliver a quality service, and what systems we have in place to ensure the service delivered meets the objectives."
+KableExtra,0.0,A project for client meant I had to learn more about the R package kableExtra. I did some work-based learning using LINK. I wrote up my findings in a blog post.,ASDF123,ASDF123
 Leadership talk  - Kevin Glazebrook,1.0,"Kevin Glazebrook is Distinguished Professor of Operational Research (OR) at Lancaster University holding a joint appointment between the Departments of Mathematics and Statistics (Faculty of Science) and the Department of Management Science (Management School). He has previously held a Chair in Applied Probability at the University of Newcastle upon Tyne and a Chair in Management Science at the University of Edinburgh. In 1989-90 he was an NRC Senior Research Fellow at NPS. He has (co-)authored around 140 papers in outlets which span the leading international journals in OR, applied probability and statistics. He is currently directing three major national initiatives in OR in the UK:","Kevin gave some excellent advice in terms of how to succeed in academia. He gave examples of networking, discussed how to make the most of conferences and gave advice on publishing in both Statistics and Operational Research.",Developing my leadership skills will allow me to deliver a professional service to my clients and develop our business further.
+Learn CI/CD,0.0,"In order to deliver a talk, I had to learn about CI and CD in dev ops.",ASDF123,ASDF123
+Learn Lintr,0.0,"In order to use Jumping Rivers packages, I had to learn about the lintr package, in particular, the update to 2.0.0.",ASDF123,ASDF123
+Learn Purrr,0.0,"I needed to learn the purrr R package for work. 
+I worked through Chapters 21 and 25 of the R4DS book
+https://r4ds.had.co.nz ",ASDF123,ASDF123
 Manchester ML,2.0,"@DreamAgility using ML for image recognition to improve product descriptions in Google shopping search
 
 Martin from @boohoo on Deep Feature Synthesis
@@ -163,6 +251,14 @@ Manchester ML,0.0,"Machine Learning Meetup:
 Phillipa Hartley @OfficialUoM presenting her talk ‘Finding rare objects in space""
 
 ",-,-
+Manchester R,0.0,"Can you trust your R package?
+Rhian Davies, Jumping Rivers
+
+R for Primary Teaching
+Chris Campbell, Auto Trader
+
+Important Learnings in R: reactive function in Rshiny, tips on version control and best practice
+Phrances Ayvee Perez, Booking.com",ASDF123,ASDF123
 Manchester R User group,3.0,"6pm Tutorial: Getting started with sparklyr - Chris Campbell, Mango Solutions
 7:10pm - Presentations:
 RStudio Projects: Making your project QA into less of a project - Rachel Naylor, Transport for the North
@@ -187,6 +283,17 @@ Manchester R User group,1.0,"19:05 - 19:35 Fewer hippos, more lab coats: The imp
 19:50 - 20:20 Eat Sleep Run R-Stats Repeat - Kaylea Haynes, Peak
 
 20:35 - 21:05 Be the best with shinytest - Chris Campbell, Mango Solutions","Although I use shiny reguarly, and am aware of the important of testing code - I had not heard of shiny test. Chris introduced the R package shiny test and demonstrated how easily tests can be implemented into shiny apps. ","Learning about shiny test has inspired me to include testing in all shiny apps that I develop. This should help flag up any bugs quickly, creating a more dependable service for our users."
+Manchester R User group,1.5,"Shiny: Beyond the Basics - Chris Campbell, Mango Solutions
+
+Aiden Peakman, National Nuclear Laboratory - 'Bubble Trouble'
+Chris Billingham, MAG-O - 'Battle of the Bands featuring Tidytext and Tensorflow'
+Jane Jin, Autotrader - 'How do you make a decision?'","The Shiny tutorial by Chris was really useful. I thought I was quite knowledgeable about Shiny, but I hadn't really thought about interactivity before. This is a key concept in Shiny apps. This talk taught me that there is a lot more I could learn about shiny and really introduced the main concepts of interactivity to me. 
+
+Jane introduced mlogit package for multinomial logistic regression mlogit. It was useful to find out about this package.
+
+Chris Billingham's talk gave me more of an insight into the capabilities of the tidytext package and also introduced me to the tuneR package for analysing music and speech. I also had a good networking session with Chris and Jonathan from MAG-O afterwards. Useful discussions including pipelines.
+
+TLDR: Gained key understanding of interactivity in Shiny, and learnt a little about some new R packages.","Now I have a better understanding of how Shiny apps work under the hood, I'll be able to build faster, better apps for my clients."
 Mango Data Scientist Radar,1.0,"The Data Science Radar as a conceptual framework that allows users to explore these character traits in more detail and to uncover their own data science profile type. 
 https://www.mango-solutions.com/radar/
 
@@ -210,6 +317,14 @@ To help shape a bespoke data science training course for your team by objectivel
 To monitor learning during a long-term data science training programme.
 As a visual aid to support your data scientist recruitment requirements, and to highlight where there are gaps in the skill set of your existing team and to identify the skill sets of potential new recruits.
 "
+Mentoring,0.0,Provided mentoring for a PhD student keen to get into Data Science,ASDF123,ASDF123
+Mentoring junior data scientist,0.0,"I've been mentoring a new junior data scientist at Jumping Rivers.
+The mentoring occurred throughout October - December.
+
+He's new to the industry, and I've been responsible for supporting his learning.
+This has included skills in git, bash, and R, as well as general working skills.",ASDF123,ASDF123
+NHS R Conference,0.0,"Created and delivered two workshops. 
+Attended a number of talks",ASDF123,ASDF123
 Northwest Universities R Day,7.0,"The Northwest Universities R Day will be a fun event to listen, talk and share experiences of doing research with R. There will be keynote presentations from Andy Field and Robin Lovelace, flash talks, and a poster session, plus a series of interactive, practical workshops in the afternoon.
 
 Programme
@@ -242,11 +357,19 @@ Using R in a business environment
 
 
 ","In particular the training session with Chris Campbell on the ""Curse of unspecified data definition""  taught me the importance of clearly defined data rules when dealing with client data. By implementing the principles and techniques that I learnt in the workshop, we will be able to provide a more robust data service for our clients. "
+Observing training,0.0,"Watching Theo deliver training for two days in Redhill. 
+Intro to R and Programming with R",ASDF123,ASDF123
+OR Analytics Conferece,0.0,ASDF123,ASDF123,ASDF123
 OR60 Conference,2.0,"I attended part of the Operational Research 60th Conference. 
 
 Particular talks of interest were from TfM, Edwin, and  Women in OR","Edwin is researching re-scheduling in the train delay scenario. It was useful to see how the problem is formulated in linear algebra. The Women in OR meeting was beneficial to my confidence and networking.
 
 ",Staying up-to-date with the latest academic research allows me to bring bepsoke techniques to our clients.
+Organiser of RLadies Lancaster,0.0,I'm currently lead organiser of the RLadies Lancaster meetup.,ASDF123,ASDF123
+Organiser of the SatRday NCL 2020 conference,0.0,"I'm one of the organisers for the SatRday NCL 2020 conference.
+This will take place on April 4th 2020.",ASDF123,ASDF123
+Pair programming with Benjamin,0.0,A mentoring system focused on packages development,ASDF123,ASDF123
+Parsnip and Reciepes,0.0,Self-taught research. Link to videos and tutorials.,ASDF123,ASDF123
 Personal mathematics tutoring,3.0,"For 6 weeks, I privately tutored two students, one GCSE student and one A-Level student. ","Revisiting the material for GCSE and A-Level was a great way for me to re-connect with basic mathematical principles.
 Having to explain these concepts to teenagers, helped me rethink the way that I communicate, using many examples.
 
@@ -254,6 +377,42 @@ Also, having to structure the lessons and set homework encouraged me to reflect 
 
 ",Being able to succinctly explain mathematical concepts to lay-people will greatly improve my ability to engage with clients.
 Psychology Summit,6.0,"Work summit in London, introducing me to the company, how our department works and reviewing our plans for writing papers in 2018.","This session was invaluable to introduce me to the science department of Arctic Shores. I learnt about how the department operates, what their outputs are and who does what. We discussed which journals and conferences are key in psychology, and the role of the British Psychological Society. ",Having a good understanding of how my department works is essential to quickly providing good quality analysis for our clients. Targetting the correct conferences with papers provides our clients with confidence that our tools have a strong scientific basis. 
+PyData Lancaster,0.0,"- Seizure Detection with Machine Learning - David Elliott
+
+David is an Associate Lecturer and PhD student in the Lancaster University Psychology department. He will give an overview of optimization and classical machine learning techniques that he has used to develop algorithms able to detect seizures in NHS diagnostic records.
+
+- Natural Language Processing: An Overview - Ryan Callihan
+
+Ryan is a Computational Linguist and Data Scientist at Relative Insight. He will be giving an introductory talk on Natural Language Processing (NLP), outlining: What it is, What the current state of it is, and Where it is going.",ASDF123,ASDF123
+PyData Lancaster February,0.0,">>> James Walkerdine - COO and Co-Founder of Relative Insight and Baker of Cakes
+
+I will be sharing how we started a language analytics and data science company here in Lancaster with little knowledge about either (at the time!) and how it has changed and grown into a sustainable business.
+
+************************
+
+>>> Rhian Davies - Data Scientist at Jumping Rivers and R Wizard
+
+Can you trust your code?
+Are you forgetful and lazy like me, but still want to write fabulous, dependable code? Enter Travis, a helpful service which can automatically run checks, tests and even tweet about your fabulous code.
+I'll explain what continuous integration is and tell stories of how we use it at Jumping Rivers. I'll also introduce inteRgrate, an R package we've developed to help us keep our packages running smoothly.",ASDF123,ASDF123
+R Ladies Lancaster: Dates and times with lubridate,1.0,"This is a beginner friendly session. We'll be working through Chapter 16 of the R for Data Science book, which deals with manipulating dates and times. This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together.
+
+Afterwards, we will try these out on our own data. So please, if you can, bring along some of your own data. You could be working on this data at the moment, or it could be something you have used in the past. If you don't have any data, this would be a good learning opportunity to try and find some open source data from the internet.","As a professional female programmer, I believe it's important to give back to the community. 
+
+By running these sessions, I have to design educational content at a suitable level. I also have to organise the sessions, and advertise them.  
+
+R-Ladies is also a great place to connect with like minded professionals and discuss issues and finding in the R community. It's a great networking opportunity for me.
+
+I also learn lots each session, this could be a new R package that I haven't heard of, or simply a better way to explain a problem to an attendee.","By delivering workshops to the community and supporting new learners, my clients can see that:
+
+1) Open-source development is important to me
+2) I'm a skilled educator
+3) I'm a supportive listener
+
+It might be important to clients that I support STEM education programmes for women.
+
+This also demonstrates to clients that I am a key member in the R North West community.
+"
 R-Ladies,1.0,"Using a real-life data set R-Ladies Manchester is hosting a workshop evening that will allow members to learn, and develop, skills and tricks for approaching a new data analysis project. We will split into groups, preferably with each group having a mix of backgrounds and R experience, to give the opportunity of peer learning and support. We envision that the workshop will include:
 
 • Using branches in Github to work on different versions of the project
@@ -274,6 +433,108 @@ For those more experienced R users we will look to provide some challenges relat
 
 Many thanks to Peak for offering us a space to use for this event. If you can offer us a space for future events please get in touch.","This bookclub included an excellent comparison of data.frames() and tibbles().
 These extra tips will help improve my R coding. ",Staying up-to-date with R coding practice is essential to good development. 
+R-Ladies Lancaster,1.0,"Details
+R-Ladies Lancaster is ready to announce our first event!
+
+Our launch event will include a number of talks about R, and there will also be plenty of time for networking over pizza! (Big thank you to H20.ai for sponsoring the pizza at our launch event).
+
+Schedule:
+
+18:00 - 18:20: Registration
+18:20 - 18:30: Introduction to R-Ladies and the local groups
+18:30 - 18:50: Nic Crane: Ten Steps to Becoming a Tidyverse Contributor
+18:50 - 19:20: Pizza break/networking
+19:20 - 19:40: Rhian Davies: A day in the life with R. A whirlwind tour.
+19:40 - 20:00: Lucy Morgan: The rocky road to building my first R package
+20:00 - 20:30 Networking/close
+
+Nic Crane (Elucidata): 10 Steps to Becoming a Tidyverse Contributor
+In 2018 I became a contributor to the tidyverse and realised that you don't have to be an R expert to get involved. In this talk, I will discuss why I was originally hesitant to contribute to open source, but how the R community made me realise my doubts were unfounded. I'll walk you through the stages of making a pull request to a tidyverse package and discuss my experiences of doing so. Whilst the focus of this talk is on contributing code, I conclude with the other valuable ways you can get involved, whether you've been using R for 2 weeks or 20 years. I'd love to make this talk interactive, so please bring any questions you have!
+
+Rhian Davies (Jumping Rivers): A day in the life with R.
+I've been using R for many years and at the moment it feels like I basically run my life in the medium of R. I'll give an whirlwind tour of a day in my life as an analyst and all the weird and wonderful ways R helps - and hinders.
+
+Lucy Morgan (Lancaster University): The rocky road to building my first R package
+I heard that putting an R package together was simple once you had functions that worked. I must have heard wrong. In this talk I’ll discuss a few of the difficulties I had in starting to build my first R package (you can then avoid these). I’ll also add a few tips from the package building process and demonstrate building a very simple package in R.
+","As a professional female programmer, I believe it's important to give back to the community.
+
+By running these sessions, I have to design educational content at a suitable level. I also have to organise the sessions, and advertise them.
+
+R-Ladies is also a great place to connect with like minded professionals and discuss issues and finding in the R community. It's a great networking opportunity for me.
+
+I also learn lots each session, this could be a new R package that I haven't heard of, or simply a better way to explain a problem to an attendee.","By delivering workshops to the community and supporting new learners, my clients can see that:
+
+1) Open-source development is important to me
+2) I'm a skilled educator
+3) I'm a supportive listener
+
+It might be important to clients that I support STEM education programmes for women.
+
+This also demonstrates to clients that I am a key member in the R North West community."
+R-Ladies Lancaster: ggplot2,1.0,"This will a beginner friendly session where we will learn how to create plots with the ggplot2 package. Even if you've never used R before, you'll be able to take part and do some coding.
+
+We'll be working through Chapter 3 of the R for Data Science book. This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together.
+
+If you're already familiar and comfortable with manipulating data in R, please still come along. It would be great to have some extra helpers, and we can also work through the latest TidyTuesday data set as a challenge.
+
+This will be an interactive session so please bring your laptop. Ideally this should have R and RStudio installed. If you have trouble downloading these, you can use https://rstudio.cloud/. You will also need the tidyverse R package. You might want to install this before coming along to the session. You can do this by running install.packages(""tidyverse"") in R.","As a professional female programmer, I believe it's important to give back to the community.
+
+By running these sessions, I have to design educational content at a suitable level. I also have to organise the sessions, and advertise them.
+
+R-Ladies is also a great place to connect with like minded professionals and discuss issues and finding in the R community. It's a great networking opportunity for me.
+
+I also learn lots each session, this could be a new R package that I haven't heard of, or simply a better way to explain a problem to an attendee.","By delivering workshops to the community and supporting new learners, my clients can see that:
+
+1) Open-source development is important to me
+2) I'm a skilled educator
+3) I'm a supportive listener
+
+It might be important to clients that I support STEM education programmes for women.
+
+This also demonstrates to clients that I am a key member in the R North West community."
+R-Ladies Lancaster: Introduction to Shiny,0.0,"Shiny is an R package that makes it easy to build interactive web apps straight from R. In this beginner-friendly session, we'll be working through part one of the RStudio shiny tutorial.
+
+https://shiny.rstudio.com/tutorial/
+
+This will be an interactive session so please bring your laptop. Ideally, this should have R and RStudio installed. If you have trouble downloading these, you can use https://rstudio.cloud/. You will also need the shiny R package. Please, install this before coming along to the session. You can do this by running install.packages(""shiny"") in R.",ASDF123,ASDF123
+R-Ladies Lancaster: R Markdown,1.0,"I co-lead the R-Ladies meet up:
+
+Rebecca Killick: Why I love R Markdown
+Rhian Davies: Stories from San Francisco.
+
+I assisted Rebecca with the workshop aspect of her talk, and then I presented my own talk on the RStudio conference.","As a professional female programmer, I believe it's important to give back to the community. 
+
+By running these sessions, I have to design educational content at a suitable level. I also have to organise the sessions, and advertise them.  
+
+R-Ladies is also a great place to connect with like minded professionals and discuss issues and finding in the R community. It's a great networking opportunity for me.
+
+I also learn lots each session, this could be a new R package that I haven't heard of, or simply a better way to explain a problem to an attendee.","By delivering workshops to the community and supporting new learners, my clients can see that:
+
+1) Open-source development is important to me
+2) I'm a skilled educator
+3) I'm a supportive listener
+
+It might be important to clients that I support STEM education programmes for women.
+
+This also demonstrates to clients that I am a key member in the R North West community.
+
+"
+R-Ladies Lancaster: stringr & regex,1.0,,"As a professional female programmer, I believe it's important to give back to the community.
+
+By running these sessions, I have to design educational content at a suitable level. I also have to organise the sessions, and advertise them.
+
+R-Ladies is also a great place to connect with like minded professionals and discuss issues and finding in the R community. It's a great networking opportunity for me.
+
+I also learn lots each session, this could be a new R package that I haven't heard of, or simply a better way to explain a problem to an attendee.","By delivering workshops to the community and supporting new learners, my clients can see that:
+
+1) Open-source development is important to me
+2) I'm a skilled educator
+3) I'm a supportive listener
+
+It might be important to clients that I support STEM education programmes for women.
+
+This also demonstrates to clients that I am a key member in the R North West community.
+"
 R4DS tutoring,1.0,"I volunteered to tutor online for 2 hours as an ""R expert""","The tutoring session involved me re-visiting the Tidyverse. Explaining these concepts to a beginner helped my improve my communication and tutoring skills. Explaining programming concepts over a messaging service can be challenging, and practising this allowed me to trial new techniques.","Improved communication, especially relating to coding and programming is vital for  delivering an understandable service."
 Rail Supplier Engagement Event ,2.0,"The Centre for Innovation in Rail at the University of Huddersfield offers a unique collaboration between world-class rail academics and industry professionals to provide access to leading-edge research and development expertise. We are constantly working with a number of key industry partners such as Unipart Rail, whilst forming new relationships with innovative SMEs and other solutions providers to offer:
 
@@ -310,9 +571,67 @@ https://r4ds.had.co.nz/
 Reading: Reproducible Research,2.0,"I worked through the excellent tutorial by Karl Broman on Reproducible Research.
 
 https://kbroman.org/steps2rr/",I aim to use a workflow which meets the gold standard for reproducibility. This guide gave me some great tips and ideas. ,"By providing a reproducible workflow, it increases the reliability of the results provided. Also, if the data changes it allows a quick re-analysis. "
+Research Data: The Best Laid Plans…,0.0,"In this Data Conversations we will talk about developing research projects. How do we go about preparing for data collection or creation? How do we identify and use existing suitable datasets? How do we develop interdisciplinary projects with partners who may be at Lancaster University or elsewhere? How do we ensure that our data is well managed through the whole lifecycle and leveraged to its full potential?
+
+Come and share your research data stories and hear others. We’d like to hear form:
+
+People who’ve developed a data driven research project
+People’s experiences around data collection and creation
+People’s experiences of locating or using existing datasets
+People’s experience of developing collaborative projects
+People who planned the organisation, storage, sharing and archival of their data from the outset - and people who wished that they had...",ASDF123,ASDF123
+RLadies Lancaster: Dplyr,1.0,"This will a beginner friendly session where we will learn how to access and transform data. Even if you've never used R before, you'll be able to take part and do some coding.
+
+We'll be working through Chapter 5 of the R for Data Science book. This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together.
+
+If you're already familiar and comfortable with manipulating data in R, please still come along. It would be great to have some extra helpers, and we can also work through the latest TidyTuesday data set as a challenge.
+
+This will be an interactive session so please bring your laptop. Ideally this should have R and Rstudio installed. If you have trouble downloading these. You can use https://rstudio.cloud/. You will also need to tidyverse R package. You might want to install this before coming along to the session. You can do this by running install.packages(""tidyverse"") in R.","As a professional female programmer, I believe it's important to give back to the community.
+
+By running these sessions, I have to design educational content at a suitable level. I also have to organise the sessions, and advertise them.
+
+R-Ladies is also a great place to connect with like minded professionals and discuss issues and finding in the R community. It's a great networking opportunity for me.
+
+I also learn lots each session, this could be a new R package that I haven't heard of, or simply a better way to explain a problem to an attendee.","By delivering workshops to the community and supporting new learners, my clients can see that:
+
+1) Open-source development is important to me
+2) I'm a skilled educator
+3) I'm a supportive listener
+
+It might be important to clients that I support STEM education programmes for women.
+
+This also demonstrates to clients that I am a key member in the R North West community."
+RSS Conference 2019,0.0,"PD6 Prof Dev Stats the way to write it
+Robert Grant, TImandra Harkness, Rob Mastrodomenico, Rob Calver
+
+Communicating & Teaching Statistics (Show me the stats)
+
+Look at graphs: Allan Reese
+Say one thing: numbers in the news (Robert Cuffe)
+
+Show me the question (Andrew Wright)
+
+Significance In Conversation, Fighting fake news and false facts with evidence and statistical thinking
+James Ball, Peter Cunliffe, Timandra Harkness",ASDF123,ASDF123
 RSS CPD training webcast,0.5,"Worked through CPD training on RSS website
 
 https://www.youtube.com/watch?v=roVi9l3MKt0&feature=youtu.be","Although I have already attended an RSS CPD course, I found it very useful to revisit this webcast. This time I focussed more on the planning and general development rather than the actual activities. ",Since working through this I have decided to make a development plan in order to ensure that my CPD matched the skills that I need to develop.
+RSS Lancashire Chair,1.0,"For 2019, I am the chair of the RSS Lancashire Local Group. 
+This involved organising talks, marketing the talks and chairing meetings
+
+","Running the RSS local committee involves:
+
+* Organising events
+* Chairing meetings
+* Engaging with the local statistics community
+
+All these things improve my organisational skills and broaden my professional network.","Volunteering on the local group committee showcases to my clients that I am an active member of the statistical community (especially in the North West).
+
+It also demonstrates my ability to be responsible and have good organisation skills. 
+It's an elected position.
+
+"
+RSS Lancashire Talk: Claire Miller ,0.0,ASDF123,ASDF123,ASDF123
 RSS Lancashire Talk: David Spiegelhalter,1.0,"David Spiegelhalter - Trust in Numbers
 
 Those who value quantitative and scientific evidence are faced with claims both of a reproducibility crisis in scientific publication, and of a post-truth society abounding in fake news and alternative facts.  Both issues are of vital importance to statisticians, and both are deeply concerned with trust in expertise.  By considering the ‘pipelines’ through which scientific and political evidence is propagated, I will consider possible ways of improving both the trustworthiness of the statistical evidence being communicated, and the ability of audiences to assess the quality and reliability of what they are being told.
@@ -320,6 +639,14 @@ Those who value quantitative and scientific evidence are faced with claims both 
 RSS Lancashire Talk: Davide Pigoli,0.5,"The statistical analysis of acoustic phonetic data: exploring differences between spoken Romance languages
 
 Exploring phonetic changes between languages is relevant to understand their history and geographical spread. While many studies have considered differences in textual form or in phonetic transcription, it is somewhat more difficult to analyse speech recordings in this manner, although this is usually the dominant mode of transmission of language changes. Here, we propose a novel approach to explore phonetic changes, using log-spectrograms of speech recordings. After pre-processing the data to remove inherent individual differences, we identify time and frequency covariance functions as a feature of the language; in contrast, the mean depends mostly on the word that has been uttered. We use these means and covariances to postulate paths between languages, and we illustrate some preliminary results obtained when the model is applied to recordings of speakers of selected Romance languages. This is part of a joint work with P.Z. Hadjipantelis, J.S. Coleman and J.A.D. Aston.","It was interesting to learn how it is possible to analyse acoustical data using Fourier analysis. In particular, separating word differences and language difference.",Expanding the types of data that we are able to analysis broadens the services that we are able to provide 
+RSS Lancashire Talk: Peter Van der Heijden,0.5,"An overview of population size estimation where linking registers results in incomplete covariates, with an application to mode of transport of serious road casualties.
+
+","Peter's talk introduced me to a new challenge in population estimation, and how linking multiple resisters and using the Expectation Maximisation algorithm can be used to solve this. These methods are applied to hard-to-reach populations. Applications include victims of human trafficking, the homeless, domestic violence, illegal immigrants etc.
+
+It was interesting to think about this problem from a modelling perspective.
+
+","If users of my service came to me with a population estimations problem for a hard-to-reach population, e.g shelter estimating homelessness - I'd know what research to consider, and how to decide if the model was appropriate."
+RSS Lancashire: Machine Learning in Astronomy,0.0,ASDF123,ASDF123,ASDF123
 RSS PSF Route to Chartered CStat,2.5,"I learnt how to track my CPD, what sort of activities are applicable, and how more about the pathway to CStat.
 
 Support provided along the pathway (including the GradStat mentoring scheme and mid-term review).Continuing Professional Development (CPD) – what’s expected in terms of doing and recording CPD
@@ -384,6 +711,69 @@ Workshop Session 2
 
 15:15 Funding and next steps
 Competition details, including specifics regarding funding, judging criteria, etc. - Luisa Moisio, R&D Programme Director, RSSB","This session involved a lot of domain-specific knowledge. I left the event feeling like I had a much greater understanding of the rail sector and the many different players. The session on the MetDesk showcased a great way to provide domain-specific predictions in the rail sector. I learnt a great deal about the adhesion problem, and the RSSB funding available. ","This event informed me on how we can best submit a funding call to forecast poor adhesion, If funded, we will be able to deliver a new product for our users, increasing safety and decreasing train delays during the difficult Autumn season. "
+RStudio Conf 2020,0.0,ASDF123,ASDF123,ASDF123
+RStudio Online training,0.0,"So here you are: you planned to teach your class or deliver your workshop in person, and now you have to do it online or not at all. Nobody is giving you time or money to make the change, and a hundred other things also need your attention. Where should you start, and what should you aim for?
+
+https://education.rstudio.com/blog/2020/03/teaching-online-on-short-notice/",a,a
+RStudio Sys Admin training,0.0,Link to modules,ASDF123,ASDF123
+RStudio teaching exchange,0.0,"Focussing on R Markdown.
+
+Talk from Alison Hill",ASDF123,ASDF123
+RStudio Tech exchange,0.0,"Discussing recent developments in tech. 
+
+Pins
+Install from binary",ASDF123,ASDF123
+RStudio technical exchange,0.0,ASDF123,ASDF123,ASDF123
+RStudio Trainer Meeting,0.0,ASDF123,ASDF123,ASDF123
+RStudio Training,0.0,ASDF123,ASDF123,ASDF123
+RStudio Training,0.0,ASDF123,ASDF123,ASDF123
+SatRday Cardiff,0.0,"IDMODELR: AN R PACKAGE CONTAINING A LIBRARY OF INFECTIOUS DISEASE MODELS AND UTILITIES
+Sam Abbott
+
+ON DEBUGGING SHINY APPLICATIONS
+Dominik Krzemiński
+
+FROM UGLY TO FUNKY: HOW I LEARNED R JUST TO MAKE MY GRAPHS LOOK GOOD
+Anne Koopman
+
+DATA WRANGLING WITH #RDATATABLE PACKAGE
+Arun Srinivasan
+
+HOW MUCH IS THAT DOGGIE IN THE WINDOW? WEB SCRAPING PUPPY ADS WITH RVEST
+Jamie Ralph
+
+EXPLORING PATHWAYS, GENES AND GENE LISTS IN BIG BIOLOGICAL DATASETS
+Alex Greenshields-Watson
+
+CAN YOU TRUST YOUR R PACKAGE?
+Rhian Davies
+
+IMPOSTORS ANONYMOUS: A GUIDE TO BELONGING
+Chris Jackson
+
+WHAT MAKES A GOOD (FANTASY) FOOTBALL MANAGER?
+Joseph O'Brien
+
+TRANSGENDER DAY OF REMEMBRANCE HACKATHON",ASDF123,ASDF123
+SatRday Newcasle,0.0,ASDF123,ASDF123,ASDF123
+Shiny exam,0.5,"This was a formal exam to assess my ability to code using R Shiny. 
+I was assessed by Dr. Greg Wilson and passed first time.",Having a formal qualification in the Shiny is a great achievement for me. It documents my ability to use Shiny.,"Completing this exam has enabled me to become a ""Certified RStudio Tidyverse Trainer"" 
+
+Having this qualification will confirm to clients that:
+1) I am good at *teaching* programming
+2) I have a good understanding of R Shiny
+
+This will give them confidence when hiring me to deliver training that I am skilled at what I do."
+Spatial Data Learning,0.0,ASDF123,ASDF123,ASDF123
+SQL murder mystery,1.0,"I decided I wanted to brush up on SQL.
+I completed the SQL murder mystery","I haven't used SQL before. 
+I wanted to gain basic knowledge of the commands, so I can communicate better with clients and attendees at my R training.","Many of our clients use SQL, so having a basic understanding of SQL commands can help me understand their data bases.]
+
+Also, when teaching people how to use R, many of them know SQL, but not R. 
+By understanding basic SQL, I can make comparisons between R and SQL, hopefully cementing their knowledge.
+
+This is particularly relevant when teaching tidyr package."
+Stats ambassadors covid-19 response call,0.0,a,a,a
 STEM Ambassador: Careers Fair,0.5,"Careers event for Year 9-11. 
 I volunteered to give a 20 minutes presentation about my career. 
 
@@ -422,13 +812,61 @@ Itinerary, Day Two:
 12:00- Katie Yates, STOR-i PhD Student
 12:30- Lunch
 13:30- Close","The STOR-i conference highlights up-to-date statistical methodology. Increasing my knowledge of new techniques in extreme value theory, changepoints and statistical learning. ",Ensuring that I am up-to-date with the latest statistical methodology allows me to provide relevant analysis for my clients. 
+STOR-i Conference 2019,2.0,"Annual STOR-i conference held at Lancaster University
+Approximately 100 attendees across academia and industry, mostly focused on cutting edge research in statistical and operations research. 
+
+I attended a key-note and the poster session.","Even though I am now in industry, I believe it is important to stay up-to-date with the statistics literature. By attending this conference, I am able to keep up to date with the latest developments in change point analysis, extreme value theory, multi-armed bandits and cluster analysis.","Users can be assured that I keep up-to-date with the latest developments in statistics, and am well-versed in a number of statistical areas. "
+STOR-i Conference 2020,0.0,ASDF123,ASDF123,ASDF123
+STOR-i Conference 2020,0.0,ASDF123,ASDF123,ASDF123
 Stylish code,1.0,I learnt about using the lintR and styler packages to stylise my code. ,"It's important as a data scientist to be up to date with the new R packages. These two, in particular, have become part of my daily coding practice, making my code cleaner and more concise.",Having clean code is essential to good coding practice.
+Supervising a placement student,3.0,Callum is a Computer Science student who is on placement at Digital Rail. it was my responsibility to supervise him and project manage his work.,"I had to manage Callum's research project, ensuring he was on task, supporting both technically and emotionally. His project was written in a programming language I do not use (Java Script) so we have to ensure we were communicating well and often.
+
+Mentoring Callum helped me develop:
+
+* My supervision skills
+* My project planning skills
+* My java script knowledge!","Supervising Callum really helped me improve my project management skills. I had to set small achievable tasks for Callum, and monitor them frequently to ensure that the project was on track. 
+
+Having strong project management skills is a key aspect of the service I provide to my clients as I am often the project lead."
+Teaching exam,1.0,"This was a formal exam to assess my ability to teach R programming.
+I was assessed by Dr. Greg Wilson and passed first time.","In order to prepare for this teaching exam, I had to:
+
+* Prepare a teaching exam
+* Draw a concept map
+* Design interactive questions
+* Create a learning persona
+
+I found this process really beneficial to thinking about the way I develop learning resources.","Completing this exam has enabled me to become a ""Certified RStudio Tidyverse Trainer""
+
+Having this qualification will confirm to clients that I am good at teaching programming
+
+
+This will give them confidence when hiring me to deliver training that I am skilled at what I do."
 The Tidyverse Style Guide,1.0,"https://style.tidyverse.org/
 I worked through the style book and made notes to develop my own personal style guide for writing R code. 
 
 Good coding style is like correct punctuation: you can manage without it, butitsuremakesthingseasiertoread. This site describes the style used throughout the tidyverse. It was originally derived from Google’s R style guide, but has evolved and expanded considerably over the years.
 
 ",Forcing myself to abide by my own style guide ensures that I am constantly good standard code. It also makes it easier for other data scientists to read my code and provide feedback. I intend to create a Digital Rail code guide.,"Having a clear style guide makes better code and, therefore, better analysis. "
+Tidy Time Series Workshop,11.0,"RStudio Conference Workshops
+
+I was TAing on Rob Hyndman's Tidy Time Series workshop
+His course covered 12 hours of material, including manipulating, plotting and forecasting time series.
+","I have strong R skills and decent experience at time series analysis, however I had not combined the two before. 
+By teaching (and therefore learning) the Tidy Time Series material, I was able to learn the state of the art R libaries used to analyse time series data. 
+Specifically I learnt the tsibble, feasts and fable R packages. 
+
+I also refreshed some statistical time series analysis theory, including calculation of Auto Correlation Functions and rules of thumb for model fitting.","Having an in depth, up-to-date knowledge of time series analysis in R will allow me to write robust analysis for client data with time series data.
+
+I was already able to perform time series analysis in R, however, using the framework defined by the tsibble packages will allow any code I write for clients to integrate well with the tidyverse. This is important to many clients as the tidyverse is seen as a standard coding framework in the R community."
+Tidyverse Exam,0.5,"This was a formal exam to assess my ability to code using the Tidyverse R libraries. 
+I was assessed by Dr. Greg Wilson and passed first time.",Having a formal qualification in the Tidyverse libraries is a great achievement for me. It documents my ability to use the tidyverse,"Completing this exam has enabled me to become a ""Certified RStudio Tidyverse Trainer"" 
+
+Having this qualification will confirm to clients that:
+1) I am good at *teaching* programming
+2) I have a good understanding of the R tidyverse packages
+
+This will give them confidence when hiring me to deliver training that I am skilled at what I do."
 Training: Writing Aptitude tests,8.0,"Training material delivered by Assessment Day.
 Covered how to develop numerical aptitude tests, including the writing of questions and assessing the difficulty.","Over the next couple of months, it is my job to develop an aptitude assessment from scratch. As I do not have any formal psychometrics training, it was essential to seek training from experts. 
 I've developed a good understanding of how to develop these tests, from writing good questions to analysing the difficulty.","Being trained in aptitude tests, allows me to write a good quality assessment. Having an accurate assessment will allow our clients to ensure that they employ the best possible candidates with confidence. "
@@ -449,6 +887,23 @@ Daniel Kershaw (Lancaster University and Mendeley) – Large–scale data mining
 John Mariani and Paul Rayson (Lancaster University) – Poster/demo session for attendees to present their own work
 
 ",The tutorials were very informative and taught me how to implement a variety of NLP techniques in javascript. I have learnt new techniques in NLP and improved my competency in javascript coding. ,A product that we develop is based on Natural Language Processing. The training that I received over the 4 days introduced me to new techniques that we can incorporate into our products.
+UKRRIN Lecture Series - Centre of Excellence in Rolling Stock,2.0,"On Tuesday 29th January the first in a series of lectures, organised by UKRRIN and Railway Engineers Forum (REF) took place at the Institute of Railway Research (IRR) based at Huddersfield University.
+
+The audience of experts from industry and academia heard case studies from the UKRRIN team from Huddersfield, Newcastle and Loughborough Universities on their collaborative research in several areas including Risk modelling, Braking and wheel motors.
+
+The innovative research presentations from the key CERS universities Huddersfield, Newcastle and Loughborough included:
+
+* Zero slip linear induction motor (Z_Lim): A novel braking system for optimum capacity, Dr Roberto Palacin, Newcastle University
+* LABRADOR: Train Braking System Simulation Tool, Dr Hamid Alterbeh, Huddersfield University
+* The SET wheel motor project, Dr Peter Hubbard, Loughborough University
+* A KPI for High-Speed Red Aspect Approaches, Professor Coen Van Gulijk, Huddersfield University
+* Recent Developments on Pantograph-Catenary Interaction to Support Rail Industry, Professor Joao Pombo, Huddersfield University","As a data scientist, I frequently have to work on domain specific problems. 
+In my current role, I specialise in railways, although I have no formal engineering or railway experience. 
+
+These talks broaded my domain specific knowledge, this will help me work in this sector in future, and enable me to communicate with railway engineers.","As a digital railway data scientist, having good domain knowledge is key. By attending this lecture series, I demonstrate to users of my service that
+
+* I am willing to develop my domain knowledge
+* I can understand technical railway lectures and ask informative questions"
 UKRRIN Rail Data Challenge Workshop ,1.0,"The Centre of Excellence in Digital Systems (CEDS) at BCRRE is a part of the UK Rail Research and Innovation Network. CEDS will host this briefing and workshop on the Rail Data Challenge which recently opened and is accepting applications until the middle of September.
 
 The Rail Data Challenge is an open invitation for innovators, developers and tech experts to develop new technologies to address three current rail challenges using new and existing datasets.
@@ -474,6 +929,11 @@ UniBrass Trustee,5.0,"I served as a trustee for the UniBrass Foundation, and als
 The UniBrass Foundation, registered charity number 1,159,359, was set up to advance, improve, develop and maintain public education in, and appreciation of, the art of the brass band movement, especially at universities. They aim to do this primarily by organising the annual UniBrass Championships, offering support to existing university ensembles, and encouraging the creation of new university bands.","As secretary, I was responsible for writing minutes, liaising with the Charity Commision and ensuring that the constitution is up to date. ","As part of my role, I had to learn how to write GDPR and child protection policies. I also had to learn how to update the charitable objectives. 
 
 These writing skills can be transferred to ensuring that any policies developed in my professional work are correct. "
+Unix basics,0.0,Working through data carpentries (LINK),ASDF123,ASDF123
+useR 2019,0.0,ASDF123,ASDF123,ASDF123
+VM training with Seb,0.0,Training on how to set up and host a Virtual Machine for training courses,ASDF123,ASDF123
+Why R,0.0,"Learning how to run a Why R session with Colin
+",ASDF123,ASDF123
 Women in Data Conference,5.0,"The Topics
 Diane Black
 Artificial Intelligence – is this the future of analytics and the workforce?

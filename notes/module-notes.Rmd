@@ -1,0 +1,89 @@
+# Naming the functions
+Call the module functions pairs
+name = func()
+nameUI = func()
+
+A module’s UI function should be given a name that is suffixed with Input, Output, or UI; for example, csvFileInput, zoomableChoroplethOutput, or tabOneUI
+
+# UI
+1. Add id argument
+1. Add ns = NS(id) Make namespace function
+1. Wrap all input IDs and output Ids in ns  ns("slider")
+
+# Server
+1. Include input, output, session arguments
+1. Do **not** use ns() to refer to inputs and outputs from the module
+
+# Using module server
+1. Call callModule() from insider server()
+1. 1st argument = module function (no quotes, no brackets)
+1. 2nd argument = same id as UI
+
+# Loading the functions
+1. File sourced by global.R
+1. In a package that the app loads
+
+Example
+
+```{r, eval = FALSE}
+sliderTextUI <- function(id){
+  ns = NS(id)
+  tagList(
+    sliderInput(ns("slider"), "Slide me", 0, 100, 1),
+    textOutput(ns("number"))
+  )
+}
+
+sliderText <- function(input, output, session){
+  output$number = renderText({
+    input$slider
+  })
+}
+
+ui = fluidPage(
+  sliderTextUI("one"),
+  sliderTextUI("two")
+)
+
+server = function(input, output){
+  callModule(sliderText, "one")
+  callModule(sliderText, "two")
+}
+
+shinyApp(ui, server)
+```
+
+
+# To return a reactive output from a module
+1. Return reactive output as a reactive expression (or list of reactive expressions)
+1. callModule() reutnrs all of the output returned by the server function
+
+# How to pass reactive input to a module?
+1. Wrap the input as a reactive expression foo = reactive({rv$foo}) Even is already input$num
+1. Pass the reactive expression to the module as an argument e.g. module(data = foo) [No brackets] 
+1. Treat the argument as a reactive expression withint the function (e.g. data())
+
+
+# Effective use of Shiny Modules
+
+## Careful design
+
+* What does the module do?
+* What is it trying to accomplish?
+* What should I call my module?
+
+## Inputs and return values
+
+* Static or reactive inputs?
+* Complexity of return values
+* Which outputs serve as inputs for other modules?
+
+* Document your modules (roxygen2 @param @return)
+* When to ()?
+  * function(input, output, foo)
+  * foo()
+  * return(foo)
+
+plot1vars$xvar() NOT plot1vars2()$xvar
+
+
