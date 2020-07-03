@@ -1,0 +1,130 @@
+---
+title: "CPD Report"
+author: "Rhian Davies"
+output:
+   html_document:
+     theme: united
+     toc: true
+     number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library("tidyverse")
+library("yaml")
+library("glue")
+library("lubridate")
+library("gt")
+library("emo")
+
+path = "data"
+filename = list.files(path = path, pattern = "*.md", recursive = TRUE)
+df = tibble(filename = filename)
+
+yaml_to_tibble = function(file) {
+  read_yaml(file) %>%
+    as_tibble()
+}
+
+df = 
+  df %>%
+  mutate(data = map(.x = filename, ~yaml_to_tibble(file = glue("{path}/{.x}")))) %>%
+  select(-filename) %>%
+  unnest(cols = c(data))
+```
+
+# Introduction
+
+This document contains a record of my Continous Professional Development activities. I work as a Data Scientist and Statistician at [Jumping Rivers](www.jumpingrivers.com). 
+
+CPD should be a key part of a professional statistician's work ethic. CPD means the development of the "whole person" statistical and non-statistical, technical and personal. CPD evaluation is essentially a self-assessment process.
+
+Each year, I should have at least 60 hours of learning hours, across atleast three of the following pre-defined categories. 
+
+  * Work based learning
+  * Professional activity
+  * Formal / educational
+  * Self-directed learning
+  * Other
+
+
+```{r annual total, echo = FALSE}
+df = 
+  df %>%
+  mutate(year = year(start_date)) %>%
+  mutate(learning_hours = as.numeric(learning_hours))
+
+df %>% 
+  group_by(year) %>% 
+  summarise(total_hours = sum(learning_hours)) %>%
+  mutate(emoji = ifelse(total_hours >= 60, emo::ji("check"), emo::ji("x"))) %>% 
+  arrange(desc(year)) %>% 
+  gt() %>% 
+  cols_label(
+    year = md("**Year**"),
+    total_hours = md("**Learning Hours**"),
+    emoji = ""
+  )
+```
+
+```{r}
+selected_year = 2020
+```
+
+## Benefit Report: `r selected_year`
+
+```{r, year}
+df_mini = 
+  df  %>% 
+    filter(year == selected_year)
+
+df_mini %>% 
+  group_by(activity_type) %>% 
+  summarise(total_hours = sum(learning_hours)) %>%
+  arrange(desc(total_hours)) %>% 
+  gt() %>% 
+  cols_label(
+    activity_type = md("**Activity Type**"),
+    total_hours = md("**Learning Hours**")
+  ) %>% 
+   grand_summary_rows(
+    columns = vars(total_hours),
+    fns = list(
+      Total = ~sum(.)),
+    formatter = fmt_number,
+    use_seps = FALSE
+  )
+```
+
+Read benefit report.
+
+```{r benefit report}
+
+df_mini %>% 
+  arrange(start_date) %>%
+  select(title, learning_hours, activity_description, benefit_to_practice, benefit_to_users) %>% 
+  arrange(desc(learning_hours)) %>% 
+  gt() %>% 
+  cols_label(
+    title = md("**Title**"),
+    learning_hours = md("**Learning Hours**"),
+    activity_description = md("**Activity Description**"),
+    benefit_to_practice = md("**Benefit to Practice**"), 
+    benefit_to_users = md("**Benefit to Users**")
+  )  %>% 
+    cols_width(
+    vars(title) ~ px(100),
+    vars(learning_hours) ~ px(100),
+    vars(activity_description) ~ px(300),
+    starts_with("Benefit") ~ px(300),
+  ) %>%
+    tab_style(
+    style = cell_text(size = px(12)),
+    locations = cells_body(
+      columns = everything()
+    )
+    )
+
+```
+
+

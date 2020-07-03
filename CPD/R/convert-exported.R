@@ -2,9 +2,21 @@ library(tidyverse)
 library(lubridate)
 library(stringr)
 library(yaml)
+library(glue)
 
-activities = readr::read_csv("../CPD/review_activities_report.csv")
-benefit = readr::read_csv("../CPD/benefit_report.csv")
+# Functions
+
+create_years = function(path = ".", years = 2017:2020){
+  for (y in seq_along(years)) {
+    if (!dir.exists(glue("{path}/{years[y]}"))) {
+      dir.create(glue("{path}/{years[y]}"))
+    }
+  }
+}
+
+
+activities = readr::read_csv("data/raw/review_activities_report.csv")
+benefit = readr::read_csv("data/raw/benefit_report.csv")
 
 # Replace NA
 benefit$`Activity Description`[(is.na(benefit$`Activity Description`))] = "ASDF123"
@@ -53,21 +65,23 @@ df =
   mutate(start_date = as_date(dmy_hm(start_date))) %>%
   mutate(end_date = as_date(dmy_hm(end_date))) %>%
   mutate(activity_url = "") %>%
-  mutate(tags = "") %>%
+  mutate(tags = list("")) %>%
   relocate(title, activity_type, start_date, end_date, activity_url, learning_hours, tags) %>%
   mutate(across(everything(), ~str_replace_all(., ":", ""))) %>%
   mutate(across(everything(), ~str_replace_all(., '"', ""))) %>%
   mutate(across(everything(), ~str_replace_all(., "#", ""))) %>%
   mutate(across(everything(), ~str_replace_all(., ">", ""))) %>%
   mutate(across(everything(), ~str_replace_all(., "<", ""))) %>%
+  mutate(across(everything(), ~str_replace_all(., "\\r", ""))) %>%
+  mutate(across(everything(), ~str_replace_all(., "\\n", ""))) %>%
   mutate(across(everything(), ~str_replace_all(., "\\*", ""))) %>%
   mutate(across(-c(start_date, end_date), ~str_replace_all(., "-", ""))) %>%
-  mutate(path = glue::glue("{year(start_date)}/{year(start_date)}-{str_pad(month(start_date), width = 2, pad = 0)}-{str_pad(day(start_date), width = 2, pad = 0)}.md"))
+  mutate(path = glue::glue("{year(start_date)}/{year(start_date)}-{str_pad(month(start_date), width = 2, pad = 0)}-{str_pad(day(start_date), width = 2, pad = 0)}.md")) %>%
+  nest(data = -path)
 
-tmp = df[1, ]
-write_yaml(x = select(tmp, -path), file = "test.md")
+#str-remove
+create_years(path = "data")
 
-df %>%
-  map(~ yaml::write_yaml(filename))
-
+map2(.x = df$path, .y = df$data,
+       ~write_yaml(.y, file = glue("data/{.x}")))
 
