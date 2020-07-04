@@ -1,0 +1,68 @@
+---
+title: "Continuing Professional Development  Report"
+author: "Rhian Davies"
+output:
+   html_document:
+     theme: united
+     toc: true
+     toc_float: true
+     number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library("lubridate")
+library("gt")
+library("emo")
+library("levelup")
+library("dplyr")
+
+df = import_cpd(path = "cpd-records")
+```
+
+# Overall summary
+
+This document contains a record of my Continous Professional Development activities. I work as a Data Scientist and Statistician at [Jumping Rivers](www.jumpingrivers.com). 
+
+CPD should be a key part of a professional statistician's work ethic. CPD means the development of the "whole person" statistical and non-statistical, technical and personal. CPD evaluation is essentially a self-assessment process.
+
+Each year, I should have at least 60 hours of learning hours, across atleast three of the following pre-defined categories. 
+
+  * Work based learning
+  * Professional activity
+  * Formal / educational
+  * Self-directed learning
+  * Other
+
+
+```{r annual total, echo = FALSE}
+df = 
+  df %>%
+  mutate(year = year(start_date)) %>%
+  mutate(learning_hours = as.numeric(learning_hours))
+
+df %>% 
+  group_by(year) %>% 
+  summarise(total_hours = sum(learning_hours)) %>%
+  mutate(emoji = ifelse(total_hours >= 60, emo::ji("check"), emo::ji("x"))) %>% 
+  arrange(desc(year)) %>% 
+  gt() %>% 
+  cols_label(
+    year = md("**Year**"),
+    total_hours = md("**Learning Hours**"),
+    emoji = ""
+  )
+```
+
+```{r, echo = FALSE, results = "asis"}
+years = sort(unique(df$year), decreasing = TRUE)
+
+md = lapply(years, function(y) {
+  knitr::knit_child(
+    'annual-template.Rmd', envir = environment(), quiet = TRUE
+  )
+})
+
+cat(unlist(md), sep = '\n')
+```
+
