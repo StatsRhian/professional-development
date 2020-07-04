@@ -13,6 +13,7 @@ A list of work-related books to read :books:
 - [ ] [R4DS](http://r4ds.had.co.nz/introduction.html)
 - [ ] [R Markdown](https://bookdown.org/yihui/rmarkdown/)
 - [ ] [R packages](http://r-pkgs.had.co.nz/)
+- [ ] [Spark with R](https://therinspark.com/)
 - [ ] [Tidy Mining with R](https://www.tidytextmining.com/)
 
 ### Python :snake:
@@ -30,6 +31,11 @@ A list of work-related books to read :books:
 ### Statistics :chart_with_upwards_trend:
 
 - [ ] [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+### Data Science
+
+- [ ] [Data Visualisation](https://socviz.co/)
+- [ ]  [The Turing Way](https://the-turing-way.netlify.app/welcome)
 
 ### Consultancy :speech_balloon:
 
