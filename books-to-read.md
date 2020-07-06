@@ -34,8 +34,9 @@ A list of work-related books to read :books:
 
 ### Data Science
 
+- [ ] [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [ ] [Data Visualisation](https://socviz.co/)
-- [ ]  [The Turing Way](https://the-turing-way.netlify.app/welcome)
+- [ ] [The Turing Way](https://the-turing-way.netlify.app/welcome)
 
 ### Consultancy :speech_balloon:
 
