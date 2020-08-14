@@ -1,5 +1,5 @@
 ---
-title: "Continuing Professional Development  Report"
+title: "Continuing Professional Development Report"
 author: "Rhian Davies"
 output:
    html_document:
@@ -22,7 +22,7 @@ df = import_cpd(path = "cpd-records")
 
 # Overall summary
 
-This document contains a record of my Continous Professional Development activities. I work as a Data Scientist and Statistician at [Jumping Rivers](www.jumpingrivers.com). 
+This document contains a record of my Continuous Professional Development activities. I work as a Data Scientist and Statistician at [Jumping Rivers](www.jumpingrivers.com). 
 
 CPD should be a key part of a professional statistician's work ethic. CPD means the development of the "whole person" statistical and non-statistical, technical and personal. CPD evaluation is essentially a self-assessment process.
 

@@ -1,0 +1,13 @@
+title: DSI talk on predicting debt repayment
+activity_type: Professional activity
+start_date: '2019-03-29'
+end_date: '2019-03-29'
+activity_url: ''
+learning_hours: '0.5'
+tags: ''
+activity_description: A talk from Edmund Ryan on Predicting the future repayment patterns
+  of portfolios of non-performing debt using advanced  statistical modelling.
+benefit_to_practice: I found it interesting that Edmund's statistical model considered fairness
+  as well as profitability, setting a minimum repayment of £1 per month.
+  Good discussion about speeding up stochastic statistical models.
+benefit_to_users: 
