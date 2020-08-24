@@ -2,9 +2,12 @@ title: Shiny Modules
 activity_type: Self-directed learning
 start_date: '2020-04-30'
 end_date: '2020-04-30'
-activity_url: ''
-learning_hours: '1.5'
+activity_url: 'https://rstudio.com/resources/shiny-dev-con/modules/'
+learning_hours: '3'
 tags: ''
-activity_description: Review needed
-benefit_to_practice: Review needed
-benefit_to_users: Review needed
+activity_description: I learnt about Shiny Modules, a way using functions in your Shiny apps to make you code more modular.
+  I worked through a tutorial, read many articles, and implemented a demo exa  mple.
+benefit_to_practice: I regularly develop Shiny applications, but didn't know what Shiny modules were or how to use them.
+  I am working on a large application for a client which lots of repeated code so this seemed like a great time to learn.
+  I'll use my knowledge of Shiny modules in all my Shiny app development going forward. 
+benefit_to_users: Using Shiny modules means that my code is more modular. This makes it much easier to read, de-bug and test. Clients will benefit from cleaner code and a better final product.

@@ -3,8 +3,9 @@ activity_type: Professional activity
 start_date: '2020-01-01'
 end_date: '2020-01-01'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '3'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: Annual conference of the STOR-i CDT. Showcasing statistics and operational research in industrial application.
+benefit_to_practice: The STOR-i conference is a great way for me to keep up to date with new research in statistics, especially in cluster analysis.
+  Useful talks included Tom Flowerdew's insights on 
+benefit_to_users: Review needed

@@ -2,9 +2,12 @@ title: Newcastle Data Sci with Jared Lander
 activity_type: Professional activity
 start_date: '2020-05-05'
 end_date: '2020-05-05'
-activity_url: ''
+activity_url: 'https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/events/270173513/'
 learning_hours: '0.5'
 tags: ''
-activity_description: Review needed
-benefit_to_practice: Review needed
-benefit_to_users: Review needed
+activity_description: The (online) Newcastle Data Science Meetup with Jared Lander. Jared talked about different statistical models and how to best visualise their components.
+benefit_to_practice: Jared gave some excellent examples of visualising models which gave me ideas.
+  In particular I liked his use of the coef plot to compare multiple models (https://jaredlander.com/content/2020/05/VisualizingModels3.html#18).
+  The coefficient distribution plots are also a nice way to visualise model uncertainty.
+benefit_to_users: When I implement a statistical model for a client, it's important that I am able to communicate the components of the model to the client.
+  Visualisation is a great tool for this, and in particular I think that coefplot is a great technique for comparing model components.
