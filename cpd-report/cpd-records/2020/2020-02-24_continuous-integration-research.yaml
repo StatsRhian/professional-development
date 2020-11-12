@@ -3,8 +3,14 @@ activity_type: Self-directed learning
 start_date: '2020-02-24'
 end_date: '2020-02-24'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1'
 tags: ''
-activity_description: Watched talks on continuous integration strategies
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  In preperation for some talks I'm giving, and my developer role in work, I watched a
+  number of talks on continuous integration strategies on YouTube.
+benefit_to_practice: |
+  Continuous integration is essential for efficient, robust code development. 
+  Through these videos I learnt about different git branching strategies, and which ones lend themselves well to CI.
+benefit_to_users: |
+  Continuous integration and git branching strategies are a key part of developing functioning code.
+  Having a good understanding of the options will allow me to make better informed decisions when working with clients.

@@ -1,31 +1,24 @@
-title:
-- R-Ladies Lancaster R Markdown
-activity_type:
-- Professional activity
-start_date:
-- '2020-02-05'
-end_date:
-- '2020-02-05'
-activity_url:
-- ''
-learning_hours:
-- '1'
-tags:
-- ''
-activity_description:
-- I co-lead the R-Ladies meet up. I assisted Rebecca with the workshop aspect of her talk,
+title: R-Ladies Lancaster R Markdown
+activity_type: Professional activity
+start_date: '2020-02-05'
+end_date: '2020-02-05'
+activity_url: ''
+learning_hours: '1'
+tags: ''
+activity_description: |
+ I co-lead the R-Ladies meet up. I assisted Rebecca with the workshop aspect of her talk,
   and then I presented my own talk on the RStudio conference.
-benefit_to_practice:
-- As a professional female programmer, I believe it's important to give back to the
+benefit_to_practice: |
+  As a professional female programmer, I believe it's important to give back to the
   community. By running these sessions, I have to design educational content at a
   suitable level. I also have to organise the sessions, and advertise them.  R-Ladies
   is also a great place to connect with like minded professionals and discuss issues
-  and finding in the R community. It's a great networking opportunity for me.I also
+  and finding in the R community. It's a great networking opportunity for me. I also
   learn lots each session, this could be a new R package that I haven't heard of,
   or simply a better way to explain a problem to an attendee.
-benefit_to_users:
-- By delivering workshops to the community and supporting new learners, my clients
-  can see that1) Open-source development is important to me2) I'm a skilled educator3)
-  I'm a supportive listenerIt might be important to clients that I support STEM education
-  programmes for women.This also demonstrates to clients that I am a key member in
-  the R North West community.
+benefit_to_users: |
+ By delivering workshops to the community and supporting new learners, my clients
+  can see that open-source development is important to me, that I'm a skilled educator and that
+  I'm a supportive listener. It might be important to clients that I support STEM education
+  programmes for women. This also demonstrates to clients that I am an active member of
+  the North West RStats community.

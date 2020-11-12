@@ -5,6 +5,13 @@ end_date: '2020-08-10'
 activity_url: ''
 learning_hours: '5'
 tags: ''
-activity_description: Review needed
-benefit_to_practice: Review needed
-benefit_to_users: Review needed
+activity_description: |
+  In work I've begun managing a junior data scientist. I'm responsible for planning his work scheduling,
+  monitoring his performance, and supporting his development.
+benefit_to_practice: |
+  Managing John has helped me reflect on workload scheduling and priorities. We have weekly scheduling sessions,
+  where we choose the most important tasks, and estimate the time required to complete them. I'm having to
+  choose a management style, improve my listening skills and balance supporting him whilst also enabling independent growth.
+benefit_to_users: |
+  The listening and support skills which I'm developing in my role as a manager will enable me to better manage
+  the teams I work with on client projects.

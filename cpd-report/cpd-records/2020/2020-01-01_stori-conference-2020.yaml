@@ -2,10 +2,14 @@ title: STOR-i Conference 2020
 activity_type: Professional activity
 start_date: '2020-01-01'
 end_date: '2020-01-01'
-activity_url: ''
+activity_url: 'https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/stor-i/annual-conference-abstracts/2020STOR-iSpeakerAbstracts.pdf'
 learning_hours: '3'
 tags: ''
-activity_description: Annual conference of the STOR-i CDT. Showcasing statistics and operational research in industrial application.
-benefit_to_practice: The STOR-i conference is a great way for me to keep up to date with new research in statistics, especially in cluster analysis.
-  Useful talks included Tom Flowerdew's insights on 
-benefit_to_users: Review needed
+activity_description: |
+  Annual conference of the STOR-i CDT. Showcasing statistics and operational research in industrial application.
+benefit_to_practice: | 
+  The STOR-i conference is a great way for me to keep up to date with new research in statistics, especially in cluster analysis.
+  Useful talks included Tom Flowerdew's insights on data science pipelines and Christine Currie's talk on stochastic processes.
+benefit_to_users: |
+  The conference is a great way to keep informed on recent statistical development.
+  Being up-to-date with statistical methodology developments broadens the areas in which I can support my clients.

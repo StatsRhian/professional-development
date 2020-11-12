@@ -2,9 +2,15 @@ title: Learning new dplyr functions
 activity_type: Self-directed learning
 start_date: '2020-06-20'
 end_date: '2020-06-20'
-activity_url: ''
+activity_url: 'https://www.tidyverse.org/blog/2020/06/dplyr-1-0-0/'
 learning_hours: '1'
 tags: ''
-activity_description: Review needed
-benefit_to_practice: Review needed
-benefit_to_users: Review needed
+activity_description: |
+  This year there was a significant release of a very popular R package - dplyr.
+  I spent some time reading and playing with the new functionality to ensure I'm up to date.
+  Examples include the across() function and the slice_*() family
+benefit_to_practice: |
+  In particular learning about the across() function has improved the quality my code.
+  This function allows me to apply the same transformation to many columns, minimising code duplication.
+benefit_to_users: | 
+  As an R expert, it's essential that I am up-to-date with important developments in the popular R packages.

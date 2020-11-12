@@ -1,19 +1,25 @@
 title: PyData Lancaster February
-activity_type: Formal / Educational
+activity_type: Professional activity
 start_date: '2020-02-26'
 end_date: '2020-02-26'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '0.5'
 tags: ''
-activity_description: ' James Walkerdine - COO and Co-Founder of Relative Insight
-  and Baker of CakesI will be sharing how we started a language analytics and data
-  science company here in Lancaster with little knowledge about either (at the time!)
-  and how it has changed and grown into a sustainable business. Rhian Davies - Data
-  Scientist at Jumping Rivers and R WizardCan you trust your code?Are you forgetful
-  and lazy like me, but still want to write fabulous, dependable code? Enter Travis,
-  a helpful service which can automatically run checks, tests and even tweet about
-  your fabulous code.I''ll explain what continuous integration is and tell stories
-  of how we use it at Jumping Rivers. I''ll also introduce inteRgrate, an R package
-  we''ve developed to help us keep our packages running smoothly.'
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  I spoke at a PyData Lancaster meetup about continuous integration.
+  The other speaker was James Walkerdine, Co-Founder of Relative Insight.
+  He told us the story of how he started a language analytics and data science company,
+  and how it has changed and grown into a sustainable business.
+benefit_to_practice: |
+  James gave a great presentation explaining how his data science company grew from a small size
+  to having three international offices. I learnt about how to support the growth of a data science team, 
+  and tips on ensuring clients feel supported. I also had some useful discussions with attendees about 
+  continous integration techniques.
+benefit_to_users: |
+  The discussions I had with other attendees introduced me to alternative CI solutions to Travis.
+  This will be useful when discussing deployment options with clients.
+  My learning from James's talk will help me foster sustainable growth within my own team, hopefully leading
+  to a happier, more productive team and therefore better output.
+  
+  
+  

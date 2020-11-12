@@ -2,15 +2,14 @@ title: R-Ladies Lancaster Introduction to Shiny
 activity_type: Professional activity
 start_date: '2020-03-04'
 end_date: '2020-03-04'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https//shiny.rstudio.com/tutorial/'
+learning_hours: '1'
 tags: ''
-activity_description: Shiny is an R package that makes it easy to build interactive
-  web apps straight from R. In this beginner-friendly session, we'll be working through
-  part one of the RStudio shiny tutorial.https//shiny.rstudio.com/tutorial/This will
-  be an interactive session so please bring your laptop. Ideally, this should have
-  R and RStudio installed. If you have trouble downloading these, you can use https//rstudio.cloud/.
-  You will also need the shiny R package. Please, install this before coming along
-  to the session. You can do this by running install.packages(shiny) in R.
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  I ran a beginner friendly Shiny tutorial for R-Ladies Lancaster. I wrote a practical for participants.
+benefit_to_practice: |
+  Preparing for this workshop made me revisit what it's like to learn shiny as a beginner. 
+  I thought about how to explain the different components, and how they all interact.
+benefit_to_users: |
+  I regulary have to explain to clients what a shiny app is and how it works.
+  This session helped me practice explaining these complex topics in understandable terms.

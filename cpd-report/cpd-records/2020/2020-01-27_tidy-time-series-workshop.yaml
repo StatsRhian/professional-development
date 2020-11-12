@@ -5,17 +5,20 @@ end_date: '2020-01-28'
 activity_url: ''
 learning_hours: '11'
 tags: ''
-activity_description: RStudio Conference WorkshopsI was TAing on Rob Hyndman's Tidy
-  Time Series workshopHis course covered 12 hours of material, including manipulating,
+activity_description:  | 
+  At RStudio Conference I was TAing on Rob Hyndman's Tidy Time Series workshop.
+  His course covered 12 hours of material, including manipulating,
   plotting and forecasting time series.
-benefit_to_practice: I have strong R skills and decent experience at time series analysis,
+benefit_to_practice: |
+  I have strong R skills and decent experience at time series analysis,
   however I had not combined the two before. By teaching (and therefore learning)
   the Tidy Time Series material, I was able to learn the state of the art R libaries
   used to analyse time series data. Specifically I learnt the tsibble, feasts and
   fable R packages. I also refreshed some statistical time series analysis theory,
   including calculation of Auto Correlation Functions and rules of thumb for model
   fitting.
-benefit_to_users: Having an in depth, up-to-date knowledge of time series analysis
+benefit_to_users: |
+  Having an in depth, up-to-date knowledge of time series analysis
   in R will allow me to write robust analysis for client data with time series data.I
   was already able to perform time series analysis in R, however, using the framework
   defined by the tsibble packages will allow any code I write for clients to integrate

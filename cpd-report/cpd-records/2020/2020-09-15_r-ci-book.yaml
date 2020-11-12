@@ -3,8 +3,11 @@ activity_type: Self-directed learning
 start_date: '2020-09-15'
 end_date: '2020-09-15'
 activity_url: ''
-learning_hours: '8'
+learning_hours: '10'
 tags: ''
-activity_description: Review needed
-benefit_to_practice: Review needed
-benefit_to_users: Review needed
+activity_description: I am co-authoring a book on R and continuous integration with Colin Gillespie.
+  This process involves researching how best to use tools like Git, Travis and GitHub Actions.
+benefit_to_practice: Researching, writing and editing a book has taught me so much about git and continuous
+  integration. I've had to delve deep into topics in order to understand them well enough to teach them.
+benefit_to_users: My knowledge of continuous integration and in particular git has dramatically improved.
+  I have a much deeper understanding of git, which will help me set up sensible workflows for my clients.
