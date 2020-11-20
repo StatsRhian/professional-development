@@ -2,6 +2,7 @@
 
 
 - [ ] [Plumbr](https://rviews.rstudio.com/2018/08/30/slack-and-plumber-part-one/)
+- [ ] [Flair](https://twitter.com/Emil_Hvitfeldt/status/1250249425223442433/photo/1)
 - [ ] [R OpenSci packages](https://devguide.ropensci.org/)
 - [ ] [Reticulate](https://rstudio.github.io/reticulate/)
 - [ ] [rrtools](https://annakrystalli.me/rrtools-repro-research/intro.html)
