@@ -14,7 +14,7 @@ benefit_to_practice: |
   James gave a great presentation explaining how his data science company grew from a small size
   to having three international offices. I learnt about how to support the growth of a data science team, 
   and tips on ensuring clients feel supported. I also had some useful discussions with attendees about 
-  continous integration techniques.
+  continuous integration techniques.
 benefit_to_users: |
   The discussions I had with other attendees introduced me to alternative CI solutions to Travis.
   This will be useful when discussing deployment options with clients.

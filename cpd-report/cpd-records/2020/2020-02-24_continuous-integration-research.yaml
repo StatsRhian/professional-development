@@ -2,12 +2,12 @@ title: Continuous Integration research
 activity_type: Self-directed learning
 start_date: '2020-02-24'
 end_date: '2020-02-24'
-activity_url: ''
+activity_url: 'https://www.infoq.com/presentations/death-continuous-integration/'
 learning_hours: '1'
 tags: ''
 activity_description: |
   In preperation for some talks I'm giving, and my developer role in work, I watched a
-  number of talks on continuous integration strategies on YouTube.
+  number of talks on continuous integration strategies on YouTube and read [blogposts](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
 benefit_to_practice: |
   Continuous integration is essential for efficient, robust code development. 
   Through these videos I learnt about different git branching strategies, and which ones lend themselves well to CI.
