@@ -9,6 +9,7 @@
 - [ ] [Shiny LP](https://github.com/jasdumas/shinyLP)
 - [x] [Shiny Modules](https://shiny.rstudio.com/articles/modules.html)
 - [ ] [Shiny Test](https://github.com/rstudio/shinytest)
+- [ ] [Shiny Tips](https://github.com/daattali/advanced-shiny)
 - [x] [Styleguide](http://style.tidyverse.org/)
 - [x] [Test that](http://r-pkgs.had.co.nz/tests.html)
 - [ ] [Tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
