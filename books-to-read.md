@@ -5,8 +5,8 @@ A list of work-related books to read :books:
 
 - [ ] [Advanced R](https://adv-r.hadley.nz/)
 - [ ] [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/)
-- [ ] [Data Viz](https://serialmentor.com/dataviz/)
-- [ ] [Efficient R](https://csgillespie.github.io/efficientR/)
+- [ ] [Data Science in a Box](https://datasciencebox.org/)
+- [x] [Efficient R](https://csgillespie.github.io/efficientR/)
 - [x] [Geocompution with R](https://geocompr.robinlovelace.net/)
 - [ ] [ggplot2](https://ggplot2-book.org/)
 - [ ] [Mastering Shiny](https://mastering-shiny.org/)
@@ -40,13 +40,9 @@ A list of work-related books to read :books:
 - [ ] [Presenting Data: How to Communicate Your Message Effectively](https://www.goodreads.com/book/show/20914483-presenting-data?from_search=true&from_srp=true&qid=FYGJKwnpok&rank=5)
 - [ ] [Data Visualisation](https://socviz.co/)
 
-### Teaching 
+### Teaching :mortar_board:
 
 - [ ] [Teaching tech together](https://teachtogether.tech/en/index.html)
-
-### Data Science
-
-- [ ] [Data Science in a Box](https://datasciencebox.org/)
 
 ### Consultancy :speech_balloon:
 
@@ -55,7 +51,6 @@ A list of work-related books to read :books:
 ### Reproducbility & Workflow :arrows_clockwise:
 
 - [ ] [ProGit](https://git-scm.com/book/en/v2)
-- [ ] [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/38191426-the-phoenix-project)
 - [ ] [The Turing Way](https://the-turing-way.netlify.app/welcome)
 
 ### Pop Science :books:
