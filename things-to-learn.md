@@ -25,3 +25,11 @@
 ### Bash skills
 - [ ] [Basic](https://swcarpentry.github.io/shell-novice/)  [2/7]
 - [ ] [Extras](http://swcarpentry.github.io/shell-extras/) 
+
+- [ ] Kubernetes
+- [ ] Docker
+- [ ] Rest APIs
+- [ ] Local hosts and ports
+- [ ] Ansible/terraform/puppet
+- [ ] Deployment stategies (green/blue vs canary)
+- [ ] nginx
