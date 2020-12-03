@@ -51,6 +51,7 @@ A list of work-related books to read :books:
 ### Reproducbility & Workflow :arrows_clockwise:
 
 - [ ] [ProGit](https://git-scm.com/book/en/v2)
+- [ ] [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 - [ ] [The Turing Way](https://the-turing-way.netlify.app/welcome)
 
 ### Pop Science :books:
