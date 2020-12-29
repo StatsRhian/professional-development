@@ -2,17 +2,12 @@ title: The Tidyverse Style Guide
 activity_type: Self-directed learning
 start_date: '2017-10-20'
 end_date: '2017-10-20'
-activity_url: ''
+activity_url: 'https//style.tidyverse.org/'
 learning_hours: '1'
 tags: ''
-activity_description: https//style.tidyverse.org/I worked through the style book and
-  made notes to develop my own personal style guide for writing R code. Good coding
-  style is like correct punctuation you can manage without it, butitsuremakesthingseasiertoread.
-  This site describes the style used throughout the tidyverse. It was originally derived
-  from Google’s R style guide, but has evolved and expanded considerably over the
-  years.
+activity_description: I worked through the style book and made notes to develop my own personal style guide for writing R code. Good coding style is like correct punctuation you can manage without it, butitsuremakesthingseasiertoread. This site describes the style used throughout the tidyverse.
 benefit_to_practice: Forcing myself to abide by my own style guide ensures that I
   am constantly good standard code. It also makes it easier for other data scientists
   to read my code and provide feedback. I intend to create a Digital Rail code guide.
 benefit_to_users: Having a clear style guide makes better code and, therefore, better
-  analysis.
+  analysis. It also ensures that any code handed to the client is easy to understand and use.

@@ -5,11 +5,7 @@ end_date: '2017-07-21'
 activity_url: 'https://www.youtube.com/watch?v=C1zMUjHOLr4'
 learning_hours: '1'
 tags: 'RSS'
-activity_description: A panel of data scientist and statisticians discussing the
-  role that data science plays within the field of statistics.
-  Has the relevance of statistics been diminished because of new types of data or technologies which need a radical new approach?
-    Is data science about ‘getting the job done’, and statistics about the deeper scientific understanding?
-    Are our universities offering students the right skill sets to meet the high demand for data scientists
+activity_description: A panel of data scientist and statisticians discussed the role that data science plays within the field of statistics. They covered topics such as if the relevance of statistics been diminished because of new technologies which need a radical new approach, and if data science about ‘getting the job done’, and statistics is about the deeper scientific understanding.
 benefit_to_practice: I really enjoyed this discussion. Often, people ask me if I identify
   as a statistician or a data scientist, and what the difference is between the two.
   These talks helped to clarify my thoughts and provided interesting angles on the

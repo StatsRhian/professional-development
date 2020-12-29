@@ -5,9 +5,7 @@ end_date: '2017-11-09'
 activity_url: ''
 learning_hours: '2'
 tags: ''
-activity_description: PresentationsWhoa, that's deep man - Martin Eastwood, boohoo.comWhat
-  has reproducibility ever done for us? A primer - Tania Allard, University of SheffieldDon't
-  use R in production - David Springate, Think Big Analytics
+activity_description: An R meetup in Manchester. Presentations were on Neural Nets (Martin Eastwood), Reproducibility (Tania Allard) and R in production (David Springate).
 benefit_to_practice: Martin gave an in-depth introduction to neural networks. Although
   I was aware of this technique before, something about how he explained everything
   really made something click for me. I feel my understanding of them, and confidence

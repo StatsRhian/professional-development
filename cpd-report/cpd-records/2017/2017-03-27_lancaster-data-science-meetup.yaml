@@ -5,12 +5,7 @@ end_date: '2017-03-27'
 activity_url: ''
 learning_hours: '1'
 tags: ''
-activity_description: Tassos will go through the evolution process of OpenStreetCab,
-  a mobile service for taxi price comparison. We will begin by discussing how the
-  release of open datasets has made the app possible and we will continue by providing
-  data driven insights aspects of urban transport economics and routing behaviour.
-  The talk will feature - amongst others - comical elements behind the story of OpenStreetCab,
-  including interactions with Black Cab drivers but also Uber itself.
+activity_description: Tassos talked about OpenStreetCab, a mobile service for taxi price comparison. He discused the open datasets that made the app possible and gave insights on urban transport economics and routing behaviour.
 benefit_to_practice: It was fascinating to hear how Tassos has taken an academic project
   right through to a real-life app. This made me think about how important it is to
   have a focus when developing a new product.  There was also an excellent networking

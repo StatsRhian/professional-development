@@ -2,9 +2,14 @@ title: RStudio Conf 2020
 activity_type: Professional activity
 start_date: '2020-01-29'
 end_date: '2020-01-30'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://rstudio.com/resources/rstudioconf-2020/'
+learning_hours: '4'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  The RStudio conference is an annual global conference for all users of R. As an R expert and an RStudio partner, it's a massiely valuble conference from both a learning and a networking perspective. I attended a number of talks and was working on our booth throughout the conference.
+benefit_to_practice: |
+  In particular I found the following talks very useful, Ryan Timpe's talk about learning R with humorous side projects, Kevin Ushey's talk on renv, and Jenny Bryan's keynote about debugging.
+  I learnt new skills related to deploying models in a reproducible manner and picked up some great tips about debugging.
+  I left the conference with a long list of new R packages to learn, and practises to start implementing in my working day.
+benefit_to_users: |
+  One of the main reasons clients come to us is for advice using R and RStudio products. By being informed and up-to-date with developments in the #RStats community, this means my clients will be confident they are getting a robust solution.

@@ -2,12 +2,10 @@ title: Reading Elements of Statistical Learning
 activity_type: Self-directed learning
 start_date: '2017-09-04'
 end_date: '2017-09-28'
-activity_url: ''
+activity_url: 'https//web.stanford.edu/~hastie/Papers/ESLII.pdf'
 learning_hours: '4'
 tags: ''
-activity_description: https//web.stanford.edu/~hastie/Papers/ESLII.pdfWorking through
-  the following chapters3 Linear Methods for Regression14 Unsupervised Learning15
-  Random Forests
+activity_description: I worked through through the following chapters, Linear Methods for Regression (3), Unsupervised Learning (14) and Random Forests (15).
 benefit_to_practice: As a statistician, it is important to understand the mathematics
   behind techniques such as linear regression, unsupervised learning and random forests.
   I focussed on these chapters are they are the most important to my current work
