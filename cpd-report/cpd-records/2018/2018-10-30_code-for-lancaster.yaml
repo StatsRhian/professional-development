@@ -5,12 +5,9 @@ end_date: '2018-10-30'
 activity_url: ''
 learning_hours: '1'
 tags: ''
-activity_description: Code for Lancaster is a volunteer Civic Technology meetup.
-  This was the first session, and discussions revolved around “How might we better enable
-  locals to be aware of local events”. 
-benefit_to_practice: Useful networking session, mixing with full stack developers
-  as well as data scientists and statisticians.
-benefit_to_users: A number of the topics came back to discussing the What services
-  can we provide vs What services do the users actually want? These discussions made
-  me re-think the services that we currently provide and encouraged me to focus on
-  the customer.
+activity_description: |
+  Code for Lancaster is a volunteer Civic Technology meetup. This was the first session, and discussions revolved around “How might we better enable locals to be aware of local events”. 
+benefit_to_practice: |
+  Useful networking session, mixing with local full stack developers as well as data scientists and statisticians.
+benefit_to_users: |
+  A number of the topics came back to discussing the What services can we provide vs What services do the users actually want? These discussions made me re-think the services that we currently provide and encouraged me to focus on the customer.

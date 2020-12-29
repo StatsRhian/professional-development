@@ -5,10 +5,9 @@ end_date: '2018-09-13'
 activity_url: ''
 learning_hours: '2'
 tags: ''
-activity_description: I attended part of the Operational Research 60th Conference.
-  Particular talks of interest were from TfM, Edwin, and  Women in OR
-benefit_to_practice: Edwin is researching re-scheduling in the train delay scenario.
-  It was useful to see how the problem is formulated in linear algebra. The Women
-  in OR meeting was beneficial to my confidence and networking.
-benefit_to_users: Staying up-to-date with the latest academic research allows me to
-  bring bepsoke techniques to our clients.
+activity_description: |
+  I attended part of the Operational Research 60th Conference. Particular talks of interest were from TfM, Edwin, and the Women in OR panel.
+benefit_to_practice: |
+  Edwin is researching re-scheduling in the train delay scenario. It was useful to see how the problem is formulated in linear algebra. The Women in OR meeting was beneficial to my confidence and networking.
+benefit_to_users: |
+  Staying up-to-date with the latest academic research allows me to bring bepsoke techniques to our clients.

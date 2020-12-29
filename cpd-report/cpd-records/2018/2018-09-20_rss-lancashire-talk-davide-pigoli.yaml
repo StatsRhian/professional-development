@@ -5,22 +5,9 @@ end_date: '2018-09-20'
 activity_url: ''
 learning_hours: '0.5'
 tags: ''
-activity_description: The statistical analysis of acoustic phonetic data exploring
-  differences between spoken Romance languagesExploring phonetic changes between languages
-  is relevant to understand their history and geographical spread. While many studies
-  have considered differences in textual form or in phonetic transcription, it is
-  somewhat more difficult to analyse speech recordings in this manner, although this
-  is usually the dominant mode of transmission of language changes. Here, we propose
-  a novel approach to explore phonetic changes, using log-spectrograms of speech recordings.
-  After pre-processing the data to remove inherent individual differences, we identify
-  time and frequency covariance functions as a feature of the language; in contrast,
-  the mean depends mostly on the word that has been uttered. We use these means and
-  covariances to postulate paths between languages, and we illustrate some preliminary
-  results obtained when the model is applied to recordings of speakers of selected
-  Romance languages. This is part of a joint work with P.Z. Hadjipantelis, J.S. Coleman
-  and J.A.D. Aston.
-benefit_to_practice: It was interesting to learn how it is possible to analyse acoustical
-  data using Fourier analysis. In particular, separating word differences and language
-  difference.
-benefit_to_users: Expanding the types of data that we are able to analysis broadens
-  the services that we are able to provide
+activity_description: |
+  Davide Pigoli spoke about analysing of acoustic phonetic data. He was exploring the phonetic changes between different languages using audio recordings. Davide's approach used the log-spectrograms of speech recordings and compared the frequency covariance functions.
+benefit_to_practice: |
+  It was interesting to learn how it is possible to analyse acoustical data using Fourier analysis. In particular, separating word differences and language differences.
+benefit_to_users: |
+  Expanding the types of data that we are able to analysis broadens the services that we are able to provide.
