@@ -25,7 +25,7 @@ A list of work-related books to read :books:
 ### Statistics :chart_with_upwards_trend:
 
 - [ ] [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [ ] [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
+- [x] [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 
 ### Programming :computer:
 
