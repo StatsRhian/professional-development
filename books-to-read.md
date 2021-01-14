@@ -37,7 +37,7 @@ A list of work-related books to read :books:
 
 ### Visualistation :art:
 
-- [x] [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+- [ ] [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [ ] [Presenting Data: How to Communicate Your Message Effectively](https://www.goodreads.com/book/show/20914483-presenting-data?from_search=true&from_srp=true&qid=FYGJKwnpok&rank=5)
 - [ ] [Data Visualisation](https://socviz.co/)
 
@@ -49,7 +49,7 @@ A list of work-related books to read :books:
 
 - [ ] [The Human side of Statistical Consultancy](https://archive.org/details/humansideofstati00boen/page/n13/mode/2up)
 
-### Reproducbility & Workflow :arrows_clockwise:
+### Reproducibility & Workflow :arrows_clockwise:
 
 - [ ] [ProGit](https://git-scm.com/book/en/v2)
 - [ ] [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
