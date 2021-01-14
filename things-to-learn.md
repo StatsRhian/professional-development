@@ -1,5 +1,10 @@
-### R packages & techniques
+## Main focus
 
+- [ ] Bash skills
+- [ ] JS/HTML/CSS skills
+- [ ] R debugging skills
+
+### R packages & techniques
 
 - [ ] [Plumbr](https://rviews.rstudio.com/2018/08/30/slack-and-plumber-part-one/)
 - [ ] [Flair](https://twitter.com/Emil_Hvitfeldt/status/1250249425223442433/photo/1)
