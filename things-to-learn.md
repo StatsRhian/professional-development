@@ -1,8 +1,10 @@
-## Main focus
+## Main focus :sparkles:
 
 - [ ] Bash skills
 - [ ] JS/HTML/CSS skills
 - [ ] R debugging skills
+
+## Other Thoughts
 
 ### R packages & techniques
 
