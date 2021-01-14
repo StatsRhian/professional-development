@@ -7,6 +7,7 @@ A list of work-related books to read :books:
 - [ ] [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/)
 - [ ] [Data Science in a Box](https://datasciencebox.org/)
 - [x] [Efficient R](https://csgillespie.github.io/efficientR/)
+- [ ] [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 - [x] [Geocompution with R](https://geocompr.robinlovelace.net/)
 - [ ] [ggplot2](https://ggplot2-book.org/)
 - [ ] [Mastering Shiny](https://mastering-shiny.org/)
@@ -36,7 +37,7 @@ A list of work-related books to read :books:
 
 ### Visualistation :art:
 
-- [ ] [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+- [x] [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [ ] [Presenting Data: How to Communicate Your Message Effectively](https://www.goodreads.com/book/show/20914483-presenting-data?from_search=true&from_srp=true&qid=FYGJKwnpok&rank=5)
 - [ ] [Data Visualisation](https://socviz.co/)
 
