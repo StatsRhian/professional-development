@@ -7,6 +7,7 @@ A list of work-related books to read :books:
 - [ ] [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/)
 - [ ] [Data Science in a Box](https://datasciencebox.org/)
 - [x] [Efficient R](https://csgillespie.github.io/efficientR/)
+- [ ] [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 - [x] [Geocompution with R](https://geocompr.robinlovelace.net/)
 - [ ] [ggplot2](https://ggplot2-book.org/)
 - [ ] [Mastering Shiny](https://mastering-shiny.org/)
@@ -24,7 +25,7 @@ A list of work-related books to read :books:
 ### Statistics :chart_with_upwards_trend:
 
 - [ ] [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [ ] [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
+- [x] [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 
 ### Programming :computer:
 
@@ -48,7 +49,7 @@ A list of work-related books to read :books:
 
 - [ ] [The Human side of Statistical Consultancy](https://archive.org/details/humansideofstati00boen/page/n13/mode/2up)
 
-### Reproducbility & Workflow :arrows_clockwise:
+### Reproducibility & Workflow :arrows_clockwise:
 
 - [ ] [ProGit](https://git-scm.com/book/en/v2)
 - [ ] [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
