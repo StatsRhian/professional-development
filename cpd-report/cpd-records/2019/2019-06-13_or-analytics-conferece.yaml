@@ -1,10 +1,16 @@
-title: OR Analytics Conferece
+title: OR Analytics Summit
 activity_type: Professional activity
 start_date: '2019-06-13'
 end_date: '2019-06-13'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://www.youtube.com/playlist?list=PLo52A9r56pbtD0mZzubMRCsigDX5aXOaD'
+learning_hours: '1'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  The annual one-day Analytics Summit organised by the OR Society.
+  I attended talks and ran an exhibit.
+benefit_to_practice: | 
+  Payal Jain gave an interesting talk defining the building blocks for an effective data analytics function.
+  She highlighted the importance of focusing on people rather than data, which made me reflect on my own approach to large scale data science projects.
+benefit_to_users: |
+  The OR community contains a number of clients who are keen to migrate from other software and learn R & Python. 
+  By engaging with this community and learning about the challenges in the industry, I can better support my clients needs.

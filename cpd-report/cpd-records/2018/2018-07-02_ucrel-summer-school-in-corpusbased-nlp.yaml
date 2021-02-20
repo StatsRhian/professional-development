@@ -6,7 +6,7 @@ activity_url: 'http://wp.lancs.ac.uk/corpussummerschools/'
 learning_hours: '16'
 tags: ''
 activity_description: |
-  A series of talks and tutorials on corpus-based NLP. Included sessions on social media analysis, authorship analysis for online text, semantic tagging, multilinguality, sentimen analysis and machine learning.
+  A series of talks and tutorials on corpus-based NLP. Included sessions on social media analysis, authorship analysis for online text, semantic tagging, multilinguality, sentiment analysis and machine learning.
 benefit_to_practice: |
   The tutorials were very informative and taught me how to implement a variety of NLP techniques in javascript. I have learnt new techniques in NLP and improved my competency in javascript coding.
 benefit_to_users: | 

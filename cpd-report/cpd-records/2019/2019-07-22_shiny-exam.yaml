@@ -5,11 +5,13 @@ end_date: '2019-07-22'
 activity_url: ''
 learning_hours: '0.5'
 tags: ''
-activity_description: This was a formal exam to assess my ability to code using R
+activity_description:  |
+  This was a formal exam to assess my ability to code using R
   Shiny. I was assessed by Dr. Greg Wilson and passed first time.
-benefit_to_practice: Having a formal qualification in the Shiny is a great achievement
-  for me. It documents my ability to use Shiny.
-benefit_to_users: Completing this exam has enabled me to become a Certified RStudio
-  Tidyverse Trainer Having this qualification will confirm to clients that1) I am
-  good at teaching programming2) I have a good understanding of R ShinyThis will give
-  them confidence when hiring me to deliver training that I am skilled at what I do.
+benefit_to_practice: |
+  Having a formal qualification in the Shiny is a great achievement for me.
+  It formally documents my ability to use Shiny.
+benefit_to_users: |
+  Completing this exam has enabled me to become a Certified RStudio Tidyverse Trainer.
+  Having this qualification will confirm to clients that I am good at teaching programming and that I have a good understanding of R Shiny.
+  This will give them confidence when hiring me to deliver training that I am skilled at what I do.

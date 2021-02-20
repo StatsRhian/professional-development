@@ -5,11 +5,12 @@ end_date: '2017-03-27'
 activity_url: ''
 learning_hours: '1'
 tags: ''
-activity_description: Tassos talked about OpenStreetCab, a mobile service for taxi price comparison. He discused the open datasets that made the app possible and gave insights on urban transport economics and routing behaviour.
-benefit_to_practice: It was fascinating to hear how Tassos has taken an academic project
-  right through to a real-life app. This made me think about how important it is to
-  have a focus when developing a new product.  There was also an excellent networking
-  event where I met local data scientists.
-benefit_to_users: My work involves taking academic ideas and bring them right through
-  to the Technology Readiness Level 10. Hearing Tassos's story helped me re-think
-  the importance of including customers at all levels throughout the process.
+activity_description: |
+  Tassos talked about OpenStreetCab, a mobile service for taxi price comparison. He discussed the open datasets that made the app possible and gave insights on urban transport economics and routing behaviour.
+benefit_to_practice: |
+  It was fascinating to hear how Tassos has taken an academic project right through to a real-life app.
+  This made me think about how important it is to have a focus when developing a new product.
+  There was also an excellent networking event where I met local data scientists.
+benefit_to_users: | 
+  My work involves taking academic ideas and bring them right through to the Technology Readiness Level 10.
+  Hearing Tassos's story helped me re-think the importance of including customers at all levels throughout the process.

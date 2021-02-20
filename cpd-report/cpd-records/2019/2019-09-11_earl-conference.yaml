@@ -2,9 +2,16 @@ title: EARL Conference
 activity_type: Professional activity
 start_date: '2019-09-11'
 end_date: '2019-09-12'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://www.r-bloggers.com/2019/08/whats-happening-at-earl-conference-2019/'
+learning_hours: '2'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  Annual conference on the Enterprise Applications of the R Language, hosted by Mango. 
+  I was exhibiting a stall and attended a number of talks. 
+  The talks I found most useful were Julia Silge discussing the Stack Overflow Developer Survey and Kelly O’ Briant covering how CI/CD tools can enhance reproducibility for R and data science.
+benefit_to_practice: |
+  Kelly's talk discussed best practices around getting data science projects into production. 
+  I learned about strategies such as green-blue deployment and methods for continuous deployment.
+  It was also an excellent networking opportunity.
+benefit_to_users: |
+  Having a good understanding of the best practices and possible pitfalls when deploying data science projects is key to ensuring a successful production pipeline for clients.

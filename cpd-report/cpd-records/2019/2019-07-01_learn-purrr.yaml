@@ -1,11 +1,17 @@
-title: Learn Purrr
+title: Learning the {purrr} package
 activity_type: Self-directed learning
 start_date: '2019-07-01'
 end_date: '2019-07-01'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https//r4ds.had.co.nz'
+learning_hours: '3'
 tags: ''
-activity_description: I needed to learn the purrr R package for work. I worked through
-  Chapters 21 and 25 of the R4DS bookhttps//r4ds.had.co.nz
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  I needed to learn the {purrr} R package for work, both for client projects and teaching.
+  I worked through Chapters 21 and 25 of the R4DS book.
+benefit_to_practice: |
+  The {purrr} package is a key part of the tidyverse and allows users to quickly write iterative code.
+  Learning {purrr} will allow me to quickly write iterative code, in the new tidyverse framework.
+  It's also a package that I'll need to teach in one of our training courses.
+benefit_to_users: |
+  Being able to use {purrr} will allow me to re-write slow for loops in a more efficient, tidyverse framework on client projects.
+  I can also write code to help users complete common challenges, such as combining similar datasets.

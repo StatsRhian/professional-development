@@ -5,13 +5,13 @@ end_date: '2019-02-15'
 activity_url: ''
 learning_hours: '0.5'
 tags: ''
-activity_description: DSI Invited Talk, Friday Morning Talk Series Speaker Vicki HansonAbstract
-  We are delighted to announce that ACM’s CEO Vicki Hanson will be visiting Lancaster
-  and will give a short talk on ACM’s Data Science initiatives. All welcome.
-benefit_to_practice: Vicki talked mostly about the challenges when setting up a Data
-  Science masters programme. from the perspective of a computer scientist. This encouraged
-  me to reflect on my own data science learning journey, one pre-dominantly from the
+activity_description: | 
+  Vicki Hanson spoke on the ACM’s Data Science initiatives at the DSI morning talks.
+benefit_to_practice: | 
+  Vicki talked mostly about the challenges when setting up a Data
+  Science masters programme from the perspective of a computer scientist. 
+  This encouraged me to reflect on my own data science learning journey, one pre-dominantly from the
   statistics side. It also made me consider the best way to teach these concepts when
   time is short.
-benefit_to_users: Thinking about the best way to teach data science will structure
-  and inform the way that I teach both statistics and programming in my training courses.
+benefit_to_users: | 
+  Thinking about the best way to teach data science will structure and inform the way that I teach both statistics and programming in my training courses.

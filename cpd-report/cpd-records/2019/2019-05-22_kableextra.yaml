@@ -3,10 +3,14 @@ activity_type: Work based learning
 start_date: '2019-05-22'
 end_date: '2019-05-23'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1'
 tags: ''
-activity_description: A project for client meant I had to learn more about the R package
-  kableExtra. I did some work-based learning using LINK. I wrote up my findings in
-  a blog post.
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  A project for client meant I had to learn more about the R package
+  kableExtra. I read the package vignettes, investigated the issue in the package and spent time testing the different options available.
+benefit_to_practice: |
+  There are many ways to display tables in R Markdown documents, but one of the most popular is {kableExtra}.
+  Having a deep understanding of all the possible styling options, allows me to branded, complex tables in both HTML and PDF.
+benefit_to_users: |
+  I'm able to support users with technical questions related to formatting of both HTML and PDF tables using {kableExtra}.
+  I'll be able to help clients meet specific table styling requirements programmatically.

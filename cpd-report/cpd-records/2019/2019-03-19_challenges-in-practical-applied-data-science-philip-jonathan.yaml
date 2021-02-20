@@ -1,25 +1,15 @@
-title: Challenges in practical applied data science Philip Jonathan
+title: Challenges in practical applied data science with Philip Jonathan
 activity_type: Professional activity
 start_date: '2019-03-19'
 end_date: '2019-03-19'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '0.5'
 tags: ''
-activity_description: Data science and associated fields of machine learning, machine
-  vision, natural language processing and AI are seen as game-changing technologies
-  in many commercial, scientific, governmental and academic spheres. The ease, size
-  and speed of data acquisition, processing, connectivity and storage, combined with
-  the easy availability of sufficient computational resources, mean that methods for
-  empirical inference can be applied in an ever-increasing range of situations. Whereas
-  the underlying inference problems are often of themselves technically rather mundane,
-  the challenge lies in applying relatively well-known algorithms for statistical
-  learning (which have typically existed in some form for decades) to problems of
-  considerably increased scale, and enabling deployment of at line or real time solutions.This
-  talk will outline some of the areas in which the digitalisation agenda and data
-  science is impacting an organisation like Shell. Areas where data science is proving
-  most beneficial will be summarised, as will current difficulties. For instance,
-  we will consider the critical challenge of model assurance in applied data science,
-  involving the development and implementation of in-situ methods for algorithm agnostic
-  assessment and comparison of data-driven solutions to practical industrial problems.
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  Phil talked about how the digitalisation agenda and data science is impacting organisations like Shell.
+  He summarised the areas where data science is proving most beneficial, and the current difficulties
+benefit_to_practice: | 
+  Phil's discussion about methods for model assurance was very interesting. It encouraged me to reflect on the importance of algorithm agnostic assessment.
+benefit_to_users: |
+  When building a model for a client, validation and assessment is key.
+  This talk presented a number of methods to consider when comparing data-driven solutions.

@@ -3,9 +3,14 @@ activity_type: Work based learning
 start_date: '2019-10-08'
 end_date: '2019-10-08'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1'
 tags: ''
-activity_description: In order to use Jumping Rivers packages, I had to learn about
-  the lintr package, in particular, the update to 2.0.0.
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  In order to improve the R packages we write at Jumping Rivers, I had to learn about
+  the {lintr} package, in particular, the update to 2.0.0.
+benefit_to_practice: |
+  Code style is a key component of developing good quality code. 
+  By using the {lintr} package, I'm able to force all code that I create to follow these code conventions.
+benefit_to_users: |
+  Writing code which follows a strict coding style will help ensure that code I write for clients is clean and readable.
+  Following code conventions when delivering training also showcases best practise to course attendees.

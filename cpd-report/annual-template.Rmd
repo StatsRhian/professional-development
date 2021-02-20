@@ -29,9 +29,6 @@ df_mini %>%
   )
 ```
 
-## Tags analysis
-
-
 ## Benefits Gained report
 
 ```{r}

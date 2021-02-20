@@ -1,10 +1,18 @@
-title: Broom Prep
+title: Learning the {broom} package
 activity_type: Self-directed learning
 start_date: '2019-08-20'
 end_date: '2019-08-20'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  The {broom} R package is used to manipulate the output of statistical tests in R.
+  I learned how to pull out statistical parameters such as the AIC and BIC.
+  I also learned how to calculate the model residuals and compare them to the original data set.
+benefit_to_practice: |
+  The {broom} package is very helpful for quickly comparing the output of statistical models.
+  Understanding how this package works will help me create useful diagnostic plots and analyse model fit.
+benefit_to_users: |
+  This package helps users interpret model output in a more user-friendly way.
+  I can know better support users in working with the standardised residuals of their models.
+  This is also part of the curriculum on our Statistical Modelling course.

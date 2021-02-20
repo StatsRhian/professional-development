@@ -2,9 +2,14 @@ title: Unix basics
 activity_type: Self-directed learning
 start_date: '2019-06-26'
 end_date: '2019-06-26'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://swcarpentry.github.io/shell-novice/'
+learning_hours: '2'
 tags: ''
-activity_description: Working through data carpentries (LINK)
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  I worked through the online materials "Shell Novice" put together by the Data Carpentries.
+benefit_to_practice: |
+  I often have to work in the Unix shell whilst using git or navigating around my laptop. 
+  I wanted to increase my knowledge of the shell to allow me to work more efficiently, and learn more about writing shell scripts.
+benefit_to_users: |
+  Having good shell scripting skills will allow me to work more efficiently on client projects, 
+  and write bash scripts as part of consultancy projects. 

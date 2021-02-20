@@ -5,10 +5,12 @@ end_date: '2020-09-11'
 activity_url: 'https://csgillespie.github.io/efficientR/'
 learning_hours: '3'
 tags: ''
-activity_description: I taught a course on efficient programming in R. In preperation for this, I learnt material
-  on  benchmarking, object growth and parallel programming. Main resources were the books Efficient R Programming & Advanced R.
-benefit_to_practice: I've always had a vague understanding of efficiencies in R programming, however this period of learning
-  forced me to really understand the main concepts. I learnt how R handles objects in memory, the best tools for benchmarking code,
-  and the options available to R users wanting to parallelise code.
-benefit_to_users: Having a good understanding of programming efficiencies in R will allow me to provide code reviews
-  for my clients, write efficient code for them, and provide advise if they want to consider parallelisation.
+activity_description: |
+  I taught a course on efficient programming in R.
+  In preparation for this, I learnt material on benchmarking, object growth and parallel programming.
+  Main resources were the books Efficient R Programming & Advanced R.
+benefit_to_practice: |
+  I've always had a vague understanding of efficiencies in R programming, however this period of learning forced me to really understand the main concepts.
+  I learnt how R handles objects in memory, the best tools for benchmarking code, and the options available to R users wanting to parallelise code.
+benefit_to_users: |
+  Having a good understanding of programming efficiencies in R will allow me to provide code reviews for my clients, write efficient code for them, and provide advise if they want to consider parallelisation.

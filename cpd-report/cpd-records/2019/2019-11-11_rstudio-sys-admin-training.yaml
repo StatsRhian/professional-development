@@ -1,10 +1,16 @@
-title: RStudio Sys Admin training
+title: RStudio Team System Administration Course
 activity_type: Formal / Educational
 start_date: '2019-11-11'
 end_date: '2019-11-11'
-activity_url: 'https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html'
-learning_hours: '0'
+activity_url: 'https://team-admin.rstudio.com/'
+learning_hours: '3'
 tags: ''
-activity_description: Link to modules
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  As part of my role supporting Seb and the data engineering team, I took the RStudio Team system administration course.
+  I learned how to administer RStudio products such as Server Pro, Connect and Package Manager.
+benefit_to_practice: |
+  It was really useful for me to learn how these products which I use daily are administered.
+  I learned more about authentication methods such as LDAP and security best practices.
+benefit_to_users: |
+  Many of our clients use the RStudio Team products.
+  Having a better understanding of the infrastructure behind these products and the different license options will enable me to support clients using these tools.

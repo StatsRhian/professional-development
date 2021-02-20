@@ -1,10 +1,20 @@
-title: Organiser of RLadies Lancaster
+title: Organiser of R-Ladies Lancaster 
 activity_type: Professional activity
 start_date: '2019-05-01'
-end_date: '2019-05-01'
-activity_url: ''
-learning_hours: '0'
+end_date: '2019-12-31'
+activity_url: 'https://www.meetup.com/rladies-lancaster/'
+learning_hours: '8'
 tags: ''
-activity_description: I'm currently lead organiser of the RLadies Lancaster meetup.
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  I'm currently the lead organiser of the RLadies Lancaster meetup.
+  We ran our launch event in May, and in 2019 we ran six events. We've led practical workshops on {dplyr}, {ggplot2}, {tidyr}, {stringr} and {lubridate}.
+benefit_to_practice: |
+  As a professional female programmer, I believe it's important to give back to the community.
+  By running these sessions, I have to design educational content at a suitable level, and advertise the events.
+  R-Ladies is also a great place way to  get to know the local R community and widen my professional network.
+  I also learn lots each session, this could be a new R package that I haven't heard of, or simply a better way to explain a problem to an attendee.
+benefit_to_users: |
+  Organising a free, open group allows members of the public to get support with R.
+  By delivering workshops to the community and supporting new learners, my clients can see that open-source development is important to me, that I'm a skilled educator and that I'm a supportive listener. 
+  It might be important to clients that I support STEM education programmes for women.
+  This also demonstrates to clients that I an active member in the R North West community.

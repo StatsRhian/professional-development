@@ -2,16 +2,14 @@ title: PyData Lancaster
 activity_type: Work based learning
 start_date: '2019-11-27'
 end_date: '2019-11-27'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://www.meetup.com/PyData-Lancaster/events/266462020/'
+learning_hours: '0.5'
 tags: ''
-activity_description: '- Seizure Detection with Machine Learning - David ElliottDavid
-  is an Associate Lecturer and PhD student in the Lancaster University Psychology
-  department. He will give an overview of optimization and classical machine learning
-  techniques that he has used to develop algorithms able to detect seizures in NHS
-  diagnostic records.- Natural Language Processing An Overview - Ryan CallihanRyan
-  is a Computational Linguist and Data Scientist at Relative Insight. He will be giving
-  an introductory talk on Natural Language Processing (NLP), outlining What it is,
-  What the current state of it is, and Where it is going.'
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  David Elliott gave a fascinating talk on Seizure Detection with Machine Learning.
+  Ryan Callihan gave an excellent overview of Natural Language Processing.
+benefit_to_practice: |
+  I found it really useful to hear Ryan discuss the different methods he uses in NLP and particularly the different libraries that are used in Python.
+  It was also an excellent way to meet other data practitioners in Lancaster.
+benefit_to_users: |
+  Many of our clients work with text data. I now have a better understanding of the different models available and how they should be applied.

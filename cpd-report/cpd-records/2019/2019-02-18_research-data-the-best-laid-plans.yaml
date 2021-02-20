@@ -1,20 +1,16 @@
-title: Research Data The Best Laid Plans…
+title: Data Conversation Best Laid Plans
 activity_type: Professional activity
 start_date: '2019-02-18'
 end_date: '2019-02-18'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1'
 tags: ''
-activity_description: In this Data Conversations we will talk about developing research
-  projects. How do we go about preparing for data collection or creation? How do we
-  identify and use existing suitable datasets? How do we develop interdisciplinary
-  projects with partners who may be at Lancaster University or elsewhere? How do we
-  ensure that our data is well managed through the whole lifecycle and leveraged to
-  its full potential?Come and share your research data stories and hear others. We’d
-  like to hear formPeople who’ve developed a data driven research projectPeople’s
-  experiences around data collection and creationPeople’s experiences of locating
-  or using existing datasetsPeople’s experience of developing collaborative projectsPeople
-  who planned the organisation, storage, sharing and archival of their data from the
-  outset - and people who wished that they had...
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  The session took the form of structured discussions and activities rather than talks.
+  Topics included preparing data for collection, identifying existing suitable datasets, and ensuring that our data is well managed through the whole lifecycle.
+benefit_to_practice: |
+  Managing data sets is a key role of a statistician. The discussions I had with my peers helped me reflect on the data sets I currently depend on,
+  and whether I'm storing them in the optimal way to support analysis both known and unknown.
+benefit_to_users: |
+  Often when supporting clients with statistical consultancy, they haven't identified their data source .
+  This session helped me think abut how I can best ensure that the correct data is collected first time around, minimising effort and cost for the client.

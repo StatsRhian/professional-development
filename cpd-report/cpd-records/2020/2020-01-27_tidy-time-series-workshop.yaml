@@ -12,7 +12,7 @@ activity_description:  |
 benefit_to_practice: |
   I have strong R skills and decent experience at time series analysis,
   however I had not combined the two before. By teaching (and therefore learning)
-  the Tidy Time Series material, I was able to learn the state of the art R libaries
+  the Tidy Time Series material, I was able to learn the state of the art R libraries
   used to analyse time series data. Specifically I learnt the tsibble, feasts and
   fable R packages. I also refreshed some statistical time series analysis theory,
   including calculation of Auto Correlation Functions and rules of thumb for model

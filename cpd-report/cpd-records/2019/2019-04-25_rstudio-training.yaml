@@ -1,10 +1,15 @@
-title: RStudio Training
+title: RStudio Instructor Training
 activity_type: Formal / Educational
 start_date: '2019-04-25'
-end_date: '2019-04-25'
-activity_url: ''
-learning_hours: '0'
+end_date: '2019-04-26'
+activity_url: 'https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY'
+learning_hours: '5'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  A seven hour course delivered by Greg Wilson on how to become an RStudio accredited instructor.
+benefit_to_practice: |
+  This course introduced me to many techniques useful for teaching tech. 
+  New ideas included learning personas, mental models and formative assessment. 
+  I've since incorporated all of these into the courses that I deliver at JR.
+benefit_to_users: |
+  Having an understanding the different ways that people learn, and how best to assess their understanding should help me deliver more engaging, successful training courses.

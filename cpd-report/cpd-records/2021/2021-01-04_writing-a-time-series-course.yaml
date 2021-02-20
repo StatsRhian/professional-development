@@ -1,0 +1,17 @@
+title: Writing a time series course
+activity_type: Work based learning
+start_date: '2021-01-04'
+end_date: '2021-01-12'
+activity_url: 'https://otexts.com/fpp3/'
+learning_hours: '6'
+tags: ''
+activity_description: |
+  I wrote the material for a one-day time series course. 
+  In order to do this, I did a large amount of research both into statistical models for time series, and their implementation in R.
+  I read the book Forecasting: Principles and Practice, which helped me learn more about the R packages {fable}, {feasts} and {tsibble}.
+  I also refreshed my knowledge on Exponential Smoothing and ARIMA models.
+benefit_to_practice: |
+  Having a refreshed knowledge of important time series models such as ETS and ARIMA will help me work on projects which require forecasting.
+  I've become more confident using the {tidyverts} ecosystem, in particular visualising time series data with {feasts}.
+benefit_to_users: |
+  Many of our clients work with time series data. Having a good understanding of both the statistical methods and the implementation in R will allow me to meet their needs.

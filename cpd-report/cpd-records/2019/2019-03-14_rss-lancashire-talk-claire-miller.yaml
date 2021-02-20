@@ -3,8 +3,20 @@ activity_type: Professional activity
 start_date: '2019-03-14'
 end_date: '2019-03-14'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '0.5'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+ Claire spoke about global lake water quality and the statistical challenges associated with modelling ecological systems.
+ The GloboLakes Project used long-term satellite observations in order to estimate the water quality of lakes and look for spatial similarities. 
+ Claire showed us visualisations of both the satellite data and the water samples over time, and highlighted the difficulties of matching up the
+ insitu samples with remote sensing data.
+benefit_to_practice: | 
+  Claire discussed the many challenges faced including dimensionality and missing data.
+  For example, one of her sensors stopped working early on in the project, forcing her to find an alternative data source.
+  This reminded me of the importance of planning ahead and making project risk assessments, to ensure that when challenges occur, there is a potential back up.
+  Claire also discussed how making her research accessible via the development of an R package impacted her project.
+  This reminded me the importance of open-source work and encouraged me to consider developing packages where appropriate.
+benefit_to_users: |
+  Creating a risk assessment at the start of a consultancy project will reassure clients that I have considered the potential challenges
+  and am prepared to handle any unexpected problems arising.
+  

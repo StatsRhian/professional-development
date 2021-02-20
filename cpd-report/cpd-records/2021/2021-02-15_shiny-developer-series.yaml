@@ -1,0 +1,18 @@
+title: Shiny Developer Series
+activity_type: Self-directed learning
+start_date: '2021-02-15'
+end_date: '2021-02-15'
+activity_url: 'https://shinydevseries.com/'
+learning_hours: '3'
+tags: ''
+activity_description: |
+  I've been watching the shiny developer series (18 episodes). 
+  These are interviews with shiny developers showcasing the tools they use and approaches they take during development.
+  Favourite episodes include Dean Attali, Colin Fay and Nick Strayer.
+benefit_to_practice: |
+  I would like to become a more advanced shiny developer.
+  In order to do this I need to learn the different tools available for shiny, and how they can integrate with other technologies.
+  The interviews are a great way for me to get an overview of the additional packages, whilst the demonstrations give me a more hands support.
+benefit_to_users: |
+  Most of the client projects that I work on involve developing shiny applications.
+  As an advanced shiny developer, I'll be able to develop more robust and efficient applications for my clients.

@@ -3,8 +3,15 @@ activity_type: Work based learning
 start_date: '2019-12-19'
 end_date: '2019-12-19'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1'
 tags: ''
-activity_description: Learning how to run a Why R session with Colin
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  I shadowed Colin Gillespie delivering a Why R course.
+  This is a course for managers explaining the positives and challenges when bringing R into their teams.
+benefit_to_practice: |
+  This is a course I need to deliver next year, so it was great to observe Colin's training style.
+  It gave me ideas of how to communicate and connect with managers and it highlighted the concerns
+  that managers often have about adopting a programming language into their analytics teams.
+benefit_to_users: |
+  Managers often have concerns when adopting a new product into their team.
+  Being able to provide an informative WhyR session will help them be able to make an informed decision about this choice.

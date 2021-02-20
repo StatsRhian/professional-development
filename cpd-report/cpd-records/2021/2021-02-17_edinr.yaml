@@ -1,0 +1,17 @@
+title: EdinbR Meetup Shiny Nirvana
+activity_type: Professional activity
+start_date: '2021-02-17'
+end_date: '2021-02-17'
+activity_url: 'https://www.meetup.com/EdinbR/events/276266162'
+learning_hours: '0.5'
+tags: ''
+activity_description: |
+  I attended the virtual EdinbR meetup to hear Eric Nantz talk about Shiny.
+benefit_to_practice: |
+  Eric's talk highlighted some key resources which I can use in my journey to become an advanced shiny developer.
+  In particular, he discussed the best practices from the Mastering Shiny book, Shiny App Stories and Outstanding User Interfaces with Shiny.
+  I haven't done much work with development for mobile shiny applications, so {shinymobile} should also be useful.
+benefit_to_users: |
+  As a shiny developer it's important that I follow best practices in order to create robust applications for my clients.
+  This talk also made me think about the importance of the design first approach, which I'm keen to use on my next client project.
+  

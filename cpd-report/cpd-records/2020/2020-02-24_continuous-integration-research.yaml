@@ -6,7 +6,7 @@ activity_url: 'https://www.infoq.com/presentations/death-continuous-integration/
 learning_hours: '1'
 tags: ''
 activity_description: |
-  In preperation for some talks I'm giving, and my developer role in work, I watched a
+  In preparation for some talks I'm giving, and my developer role in work, I watched a
   number of talks on continuous integration strategies on YouTube and read [blogposts](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
 benefit_to_practice: |
   Continuous integration is essential for efficient, robust code development. 

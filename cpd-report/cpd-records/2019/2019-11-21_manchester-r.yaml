@@ -1,12 +1,17 @@
-title: Manchester R
+title: 'Manchester R November 2019'
 activity_type: Work based learning
 start_date: '2019-11-21'
 end_date: '2019-11-21'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://www.rmanchester.org/category/past-presentations/'
+learning_hours: '1'
 tags: ''
-activity_description: Can you trust your R package?Rhian Davies, Jumping RiversR for
-  Primary TeachingChris Campbell, Auto TraderImportant Learnings in R reactive function
-  in Rshiny, tips on version control and best practicePhrances Ayvee Perez, Booking.com
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  I delivered a talk on Continuous Integration. 
+  Chris Campbell gave a talk on R for Primary Teaching
+  Phrances Ayvee Perez talked about reactive function in {shiny} and tips for best practise
+benefit_to_practice: | 
+  It was brilliant to hear Chris talk about how R and {shiny} could be used to help KS1 children learn mathematics.
+  His creative {shiny} apps have given me ideas about how we could be more creative in the way we teach.
+  I also had some useful networking discussions on the CI/CD approach I talked about.
+benefit_to_users: | 
+  By constantly reflecting on how we use technology to teach statistical principles, it allows me to be more creative with my teaching and hopefully deliver high quality training sessions.

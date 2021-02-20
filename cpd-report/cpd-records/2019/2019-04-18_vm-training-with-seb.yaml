@@ -3,9 +3,15 @@ activity_type: Work based learning
 start_date: '2019-04-18'
 end_date: '2019-04-18'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1'
 tags: ''
-activity_description: Training on how to set up and host a Virtual Machine for training
-  courses
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  Training on how to set up and host a Virtual Machine for training  courses.
+benefit_to_practice: |
+  As part of my role at JR, I'll be supporting Seb with some of the infrastructure for our training courses.
+  Seb explained the full process of developing VMs which includes building a virtual machine, setting a DNS, adding SSL certificates and installing dependencies onto the machine.
+benefit_to_users: |
+  Stable VMs are essential for a smooth training experience during courses.
+  It also means I can have the technical skills to fix any issues that may occur during training.
+  Finally, I'll be able to discuss deployment elements with consultancy clients in a more technical manner.
+  

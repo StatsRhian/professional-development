@@ -1,0 +1,19 @@
+title: Learning about {golem}
+activity_type: Work based learning
+start_date: '2021-02-15'
+end_date: '2021-02-19'
+activity_url: 'https://engineering-shiny.org/'
+learning_hours: '4'
+tags: ''
+activity_description: |
+  I am exploring a number of different frameworks in which to create shiny applications in a robust way.
+  A popular framework is using the {golem} package to deploy shiny applications from within an R package.
+  I watched a number of talks on {golem} and read the book Engineering Production-Grade Shiny Apps
+benefit_to_practice: |
+  I'm a confident shiny developer but still don't feel like I work in a way that meets best practices. 
+  Reading about this approach has helped clarify the ways in which I can develop robust shiny applications in a more professional manner.
+  I will also start using the "documentation first" approach detailed in the book.
+  This keeps UI and server components completely separate until necessary.
+benefit_to_users: |
+  As part of my consultancy work, I regularly develop shiny applications for clients.
+  By using the {golem} infrastructure, I'll be able to develop more robust, well-structure applications for my clients.

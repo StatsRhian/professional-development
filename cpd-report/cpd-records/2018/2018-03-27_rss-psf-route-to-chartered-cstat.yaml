@@ -5,9 +5,10 @@ end_date: '2018-03-27'
 activity_url: ''
 learning_hours: '2.5'
 tags: ''
-activity_description: I watched videos, read articles on the RSS website and did some personal reflection about my CPD.
-benefit_to_practice: I learnt how to track my CPD, what sort of activities are applicable,
-  and how more about the pathway to CStat. I began to re-think how I present myself
-  as a professional statistician, and the guidelines to follow as a Fellow of the
-  Royal Statistical Soceity
-benefit_to_users: CPD is vital to provide a professional, up-to-date, service to clients.
+activity_description: |
+  I watched videos, read articles on the RSS website and did some personal reflection about my CPD.
+benefit_to_practice: |
+  I learnt how to track my CPD, what sort of activities are applicable, and how more about the pathway to CStat.
+  I began to re-think how I present myself as a professional statistician, and the guidelines to follow as a Fellow of the Royal Statistical Society.
+benefit_to_users: |
+  CPD is vital to provide a professional, up-to-date, service to clients.

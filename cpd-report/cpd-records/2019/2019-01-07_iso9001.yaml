@@ -5,17 +5,19 @@ end_date: '2019-01-08'
 activity_url: ''
 learning_hours: '5'
 tags: ''
-activity_description: My company (Digital Rail) decided to apply for ISO9001 certification.
+activity_description: |
+  Digital Rail decided to apply for ISO9001 certification.
   I was put in charge of developing a quality management system and ensuring that
-  it was robust enough to pass the certification.We passed first time and Digital
-  Rail have ISO90012015 ceritication
-benefit_to_practice: I hadn't written any quality assessment documents before so this
-  was all new to me. I learnt how to write a quality management manual, and the key
-  components required for one. I also learnt about the importance of constantly reviewing
-  a QMS and the systems used to perform such reviews. Personally, I feel knowledge
-  of QMSs and how to write and maintain them will be important in any future roles,
+  it was robust enough to pass the certification. We passed first time and Digital
+  Rail have ISO90012015 certification.
+benefit_to_practice: |
+  I hadn't written any quality assessment documents before so this was all new to me.
+  I learnt how to write a quality management manual, and the key components required for one.
+  I also learnt about the importance of constantly reviewing a QMS and the systems used to perform such reviews.
+  Personally, I feel knowledge of QMSs and how to write and maintain them will be important in any future roles,
   especially consultancy.
-benefit_to_users: This has huge benefit to users of my service. By writing a QMS,
-  this showcases that providing a quality service is of great importance to me. Writing
-  a QMS demonstrates how we will deliver a quality service, and what systems we have
+benefit_to_users: | 
+  This has huge benefit to users of my service.
+  By writing a QMS, this showcases that providing a quality service is of great importance to me.
+  Writing a QMS demonstrates how we will deliver a quality service, and what systems we have
   in place to ensure the service delivered meets the objectives.

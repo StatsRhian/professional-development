@@ -2,9 +2,16 @@ title: RSS Lancashire Machine Learning in Astronomy
 activity_type: Professional activity
 start_date: '2019-05-30'
 end_date: '2019-05-30'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://rss.org.uk/news-publication/news-publications/2019/section-group-reports-(1)/statistical-computing-section-lancashire-and-cumbr/'
+learning_hours: '0.5'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  The RSS Statistical Computing Section and the RSS Lancashire and Cumbria local group jointly ran a workshop on Machine Learning in Astronomy.
+  The aim of this event was to bring together statisticians, machine learners and physicists to introduce academics and PhD students to the range of research challenges that sit at the interface of these research fields.
+  I was one of the organisers.
+benefit_to_practice: |
+  It was really interesting to hear about the statistical challenges being met by physicists working in astronomy.
+  I was particularly interested in the deep learning image classification tool PlanetNet by Ingo Waldmann.
+  This made me more aware of the how statistical techniques can be adapted to the physics domain.
+benefit_to_users: |
+  Having an understanding of some of the statistical challenges arising in Astronomy, and the existing work being done will allow me to support any clients working in that field.

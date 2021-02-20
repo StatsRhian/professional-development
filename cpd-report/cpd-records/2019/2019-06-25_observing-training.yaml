@@ -3,9 +3,14 @@ activity_type: Work based learning
 start_date: '2019-06-25'
 end_date: '2019-06-26'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '4'
 tags: ''
-activity_description: Watching Theo deliver training for two days in Redhill. Intro
-  to R and Programming with R
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  I observed my colleague Theo deliver training for two days at Santander. 
+  The courses were Introduction to R and Programming with R.
+benefit_to_practice: |
+  In my new position, I'll need to deliver training courses.
+  Observing Theo, I got to witness his delivery style, become more familiar with our training materials and understand the flow of an on-site training course.
+  I also taught one chapter of the course which was great for my confidence.
+benefit_to_users: |
+  Observing others deliver training, and learning the teaching material will help me deliver excellent quality training courses to our clients.

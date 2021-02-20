@@ -1,0 +1,17 @@
+title: RSS Data Science with Andrew Ng
+activity_type: Professional activity
+start_date: '2021-02-10'
+end_date: '2021-02-10'
+activity_url: 'https://datasciencesection.org/2020/12/09/andrew-ng-at-the-rss-data-science-section/'
+learning_hours: '0.5'
+tags: ''
+activity_description: |
+  The RSS Data Science group hosted a fireside chat with Andrew Ng.
+  Andrew discussed the importance of AI leads having both deep technical & business knowledge.
+  He also highlighted that ML engineers would benefit from more exploratory data analysis skills and how sometimes it's better to just fix your model, and focus on using the data in the best way.
+benefit_to_practice: |
+  Andrew got me thinking about the importance of maximising the usefulness of the data, rather than getting to fixed on model tweaks.
+  He also reminded me that sometimes you just need to try something and if it doesn't work at all, thats just part of the process.
+  I'll keep these principles in mind during my next modelling consultancy project.
+benefit_to_users: |
+  By focusing on utilising the data on a couple of well selected models rather than just throwing different models at the data, I should be able to build more appropriate, interpretable models for my client. 

@@ -8,8 +8,12 @@ tags: ''
 activity_description: |
   At the 2020 NHS R conference, I presented a workshop on ggplot2, and watched a number of sessions, include Silva's workshop on Xaringan.
 benefit_to_practice: |
-  I particularly benefitted from Silvia Canelon's workshop on Xaringan. I use Xaringan often for presentation slides and am pretty up to date in terms of the revelant technical skills.
-  However, her workshop introduced me to the design elements, and making my slides stand out. I've since created a set of slides in this more creative, stylish way and I feel it makes the content more engaging for listeners. There were also useful talks on data science (Lisa Clark) Qlik Sense (Jamie-Leigh Chapman) and R Code Quality (Colin Gillespie)
+  I particularly benefited from Silvia Canelon's workshop on Xaringan. I use Xaringan often for presentation slides and am pretty up to date in terms of the relevant technical skills.
+  However, her workshop introduced me to the design elements, and making my slides stand out. I've since created a set of slides in this more creative, stylish way and I feel it makes the content more engaging for listeners.
+  There were also useful talks on data science (Lisa Clark) Qlik Sense (Jamie-Leigh Chapman) and R Code Quality (Colin Gillespie)
 benefit_to_users: |
- Many of my clients (both training and consultancy) work in Public Health. The NHS R Conference is hugefully useful for me to hear the challenges, progress and approaches occuring in the public health sector. Hearing that it's hard for analysts to deploy shiny apps within the NHS encourages me to provide alternative solutions. Hearing managers worrying about security reminds me to support them with RStudio Package Manager. Although I do learn technical tips at this conference, the real benefit is understanding the users.
+ Many of my clients (both training and consultancy) work in Public Health. The NHS R Conference is massively useful for me to hear the challenges, progress and approaches arising in the public health sector.
+ Hearing that it's hard for analysts to deploy shiny apps within the NHS encourages me to provide alternative solutions.
+ Hearing managers worrying about security reminds me to support them with RStudio Package Manager.
+ Although I do learn technical tips at this conference, the real benefit is understanding the users.
   

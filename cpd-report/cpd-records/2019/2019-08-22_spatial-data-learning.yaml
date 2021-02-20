@@ -2,9 +2,17 @@ title: Spatial Data Learning
 activity_type: Self-directed learning
 start_date: '2019-08-22'
 end_date: '2019-08-23'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://geocompr.robinlovelace.net/'
+learning_hours: '5'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  In work I had to write material for a new course on Spatial Data Analysis. 
+  This involved a lot of research into the best ways to handle spatial data in R.
+  I used a number of resources, but my main focus was reading the Geocomputation with R book.
+benefit_to_practice: |
+  Whilst writing this course I learnt about a number of R packages for handling spatial data, in particular {sf}, {tmap} and {leaflet}.
+  I also learnt about the different ways of coding spatial data (vector vs raster) and how to use co-ordinate reference systems.
+benefit_to_users: |
+  Many of our clients with to build maps to visualise spatial data. 
+  I now have a good understand of creating both static and interactive maps in R. 
+  I've also got good knowledge around how spatial vector data is handled in R, and how to troubleshoot common problems.

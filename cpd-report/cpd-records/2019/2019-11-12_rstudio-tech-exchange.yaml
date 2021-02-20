@@ -1,10 +1,18 @@
-title: RStudio Tech exchange
+title: RStudio Technical Exchange
 activity_type: Work based learning
-start_date: '2019-11-12'
-end_date: '2019-11-12'
+start_date: '2019-10-08'
+end_date: '2019-12-31'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1'
 tags: ''
-activity_description: Discussing recent developments in tech. PinsInstall from binary
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  In 2019, I attended three of the RStudio technical exchange meetings.
+  In these sessions, staff at RStudio introduce new developments coming to the RStudio ecosystem.
+  Discussions have included reticulate, installing binary R packages with RStudio Package Manager and how to pin data on RStudio Connect.
+benefit_to_practice: |
+  The technical exchange keeps me up-to-date with new developments in the RStudio ecosystem.
+  I've learned how to use pins to pin data on RStudio connect, and the new developments to the {plumber} package for developing APIs.
+benefit_to_users: |
+  Many of our clients use RStudio products daily.
+  Having a good understanding of their features, and the upcoming developments allows me to support my clients needs.
+  This session also allows me to feedback any feature requests from our clients directly to RStudio.

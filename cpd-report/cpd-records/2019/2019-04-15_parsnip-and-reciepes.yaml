@@ -1,10 +1,17 @@
-title: Parsnip and Reciepes
+title: Parsnip and Recipes
 activity_type: Self-directed learning
 start_date: '2019-04-15'
 end_date: '2019-04-15'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://recipes.tidymodels.org/'
+learning_hours: '3'
 tags: ''
-activity_description: Self-taught research. Link to videos and tutorials.
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  Self-taught research to learn the {recipes} and {parsnip} packages which make up the tidymodels framework in R.
+  I read vignettes, blog posts and worked through practicals. 
+benefit_to_practice: |
+  I had used the {caret} package previously but did not know the new tidymodels framework.
+  I'll need to teach these packages at Jumping Rivers, so I need to be very comfortable using these packages.
+benefit_to_users: |
+  Our clients are often interested in learning how to implement machine learning models in R.
+  This framework allows them to compare different models in a comparable space. 
+  I'll also be able to help our users convert over from the older package {caret} to the new framework {parsnip}.

@@ -1,0 +1,17 @@
+title: SatRday Newcastle
+activity_type: Professional activity
+start_date: '2019-04-06'
+end_date: '2019-04-06'
+activity_url: 'https://newcastle2019.satrdays.org/'
+learning_hours: '3'
+tags: ''
+activity_description: |
+  A one-day conference on the R language, held in Newcastle.
+  Key talks included Geocomputation Robin Lovelace, Shiny deployment with Seb and creative coding from 
+benefit_to_practice: |
+  Thomas's encouraged me to think about the way I approach projects.
+  His talk inspired me to try more creative R projects and see if I can reap the learning benefits associated with them.them
+  Seb's talk was very useful practically to me as I need to understand different deployment strategies for Shiny apps in my new role.
+benefit_to_users: |
+  Robins's talk introduced me to state of the art methods for handling and manipulating spatial data. 
+  Many of my clients want to wrangle and visualise spatial data so my increased knowledge will allow me to support this.

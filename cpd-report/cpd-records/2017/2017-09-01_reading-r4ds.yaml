@@ -5,9 +5,12 @@ end_date: '2017-11-30'
 activity_url: 'https//r4ds.had.co.nz/'
 learning_hours: '4'
 tags: ''
-activity_description: I worked through the first hald of the R4DS book in Autumn 2017. 
-  This book focuses on teaching how to do data science with R. I learned how to use key tidyverse packages such as dplyr, tidyr and ggplot2. 
-benefit_to_practice: This book is the gold standard for data science in R. Working
-  through the book taught me new skills, particularly in visualising data using ggplot.
-benefit_to_users: Having strong R skills are essential for both analysing client data,
-  but also visualising their data in a clear, intuitive way.
+activity_description: |
+  I worked through the first half of the R4DS book in Autumn 2017. 
+  This book focuses on teaching how to do data science with R.
+  I learned how to use key tidyverse packages such as {dplyr}, {tidyr} and {ggplot2}. 
+benefit_to_practice: |
+  This book is the gold standard for data science in R.
+  Working through the book taught me new skills, particularly in visualising data using {ggplot2}.
+benefit_to_users: |
+  Having strong R skills are essential for both analysing client data, but also visualising their data in a clear, intuitive way.

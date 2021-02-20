@@ -1,10 +1,17 @@
-title: useR 2019
+title: 'useR! 2019'
 activity_type: Professional activity
 start_date: '2019-07-09'
 end_date: '2019-07-12'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://www.r-project.org/conferences/useR-2019/'
+learning_hours: '8'
 tags: ''
-activity_description: ASDF123
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  I presented a workshop on Travis CI at useR! 2019 held in Toulouse.
+  There were many fantastic, relevant talks and I left this conference with lots of new learnings.learnings
+  Useful talks included combining Shiny with R Markdown, new developments in {dplyr}, enhancements to {tidyr}, {golem}, {goodpractise} for package development and reusing tidyverse code with {rlang}. code   
+benefit_to_practice: |
+  I left the conference with a huge list of R packages to investigate further. 
+  The talks on best practise gave me excellent advise which I have since incorporated into my coding.
+benefit_to_users: |
+  As an expert in R development, it's essential for me to be informed on the latest developments.
+  Attending the useR! conference is one of the best ways for me to update my knowledge and engage with the R community.

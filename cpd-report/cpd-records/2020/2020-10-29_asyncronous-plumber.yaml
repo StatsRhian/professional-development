@@ -1,13 +1,17 @@
-title: Asyncronous Plumber
+title: Asynchronous Plumber
 activity_type: Work based learning
 start_date: '2020-10-29'
 end_date: '2020-10-29'
 activity_url: ''
 learning_hours: '2'
 tags: ''
-activity_description: A colleague asked me to develop an asyncronous API for his project.
-  As part of this I had to learn about asyncronous APIs, and the R packages plumber and future.
-benefit_to_practice: Plumber is a package I've wanted to learn about for a while. It allows you to create 
-  web APIs directly from R. This increases my options when choosing a deployment method.
-benefit_to_users: Clients often request deployment via API. I now have an understanding of how to 
-  deploy an API, and how to manage asyncronous API requests.
+activity_description: |
+  A colleague asked me to develop an asynchronous API for his project.
+  As part of this I had to learn about asynchronous APIs, and the R packages {plumber} and {future}.
+benefit_to_practice: | 
+  {plumber} is a package I've wanted to learn about for a while.
+  It allows you to create web APIs directly from R.
+  This increases my options when choosing a deployment method.
+benefit_to_users: | 
+  Clients often request deployment via API.
+  I now have an understanding of how to deploy an API, and how to manage asynchronous API requests.

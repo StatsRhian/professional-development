@@ -5,13 +5,15 @@ end_date: '2019-06-11'
 activity_url: ''
 learning_hours: '8'
 tags: ''
-activity_description: I attended a two day Introduction to Python course run by Jack
-  Walton (Jumping Rivers)I have already done a little python programming but had not
-  received formal training before. Introduction to Python Programming with PythonTeaching
-  + interactive workshops
-benefit_to_practice: As a data scientist, I frequently have to edit, format and write
+activity_description: | 
+  I attended a two day Introduction to Python course run by Jack
+  Walton. I have already done a little python programming but had not
+  received formal training before. 
+benefit_to_practice: |
+  As a data scientist, I frequently have to edit, format and write
   Python code. Having formal training means I have more confidence in my coding and
   have a better understanding of the language.
-benefit_to_users: Clients frequently come to us with Python code. By having a more
+benefit_to_users: |
+  Clients frequently come to us with Python code. By having a more
   formal knowledge of the language I will be able adapt their code and integrate it
   wit our data pipelines more easily.

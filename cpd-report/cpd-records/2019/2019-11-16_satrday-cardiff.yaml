@@ -2,16 +2,16 @@ title: SatRday Cardiff
 activity_type: Work based learning
 start_date: '2019-11-16'
 end_date: '2019-11-16'
-activity_url: ''
-learning_hours: '0'
+activity_url: 'https://cardiff2019.satrdays.org/'
+learning_hours: '3'
 tags: ''
-activity_description: IDMODELR AN R PACKAGE CONTAINING A LIBRARY OF INFECTIOUS DISEASE
-  MODELS AND UTILITIESSam AbbottON DEBUGGING SHINY APPLICATIONSDominik KrzemińskiFROM
-  UGLY TO FUNKY HOW I LEARNED R JUST TO MAKE MY GRAPHS LOOK GOODAnne KoopmanDATA WRANGLING
-  WITH RDATATABLE PACKAGEArun SrinivasanHOW MUCH IS THAT DOGGIE IN THE WINDOW? WEB
-  SCRAPING PUPPY ADS WITH RVESTJamie RalphEXPLORING PATHWAYS, GENES AND GENE LISTS
-  IN BIG BIOLOGICAL DATASETSAlex Greenshields-WatsonCAN YOU TRUST YOUR R PACKAGE?Rhian
-  DaviesIMPOSTORS ANONYMOUS A GUIDE TO BELONGINGChris JacksonWHAT MAKES A GOOD (FANTASY)
-  FOOTBALL MANAGER?Joseph O'BrienTRANSGENDER DAY OF REMEMBRANCE HACKATHON
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: |
+  I presented a talk at the one-day conference on R held in Cardiff.
+  Useful talks included Dominik Krzemiński's talk on debugging Shiny applications and Arun Srinivasan's talk on the {datatable} package.
+  Chris Jackson also gave a though provoking talk on impostor syndrome.
+benefit_to_practice: |
+  Arun gave a thorough introduction to {datatable}. It's not a package I've used before, as it's an alternative to the tidyverse framework.
+  It was helpful to learn about the speed up in manipulation it can provide, and seen the (very different) approach to the code style.
+  In work I do a lot of shiny applications so Dom's talk on debugging was very helpful.
+benefit_to_users: |
+  Being able to debug shiny apps efficiently will improve the development process.

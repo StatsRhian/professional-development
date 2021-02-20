@@ -5,11 +5,12 @@ end_date: '2019-03-29'
 activity_url: ''
 learning_hours: '0.5'
 tags: ''
-activity_description: A talk from Edmund Ryan on Predicting the future repayment patterns
-  of portfolios of non-performing debt using advanced  statistical modelling.
-benefit_to_practice: I found it interesting that Edmund's statistical model considered fairness
-  as well as profitability, setting a minimum repayment of £1 per month.
-  This made my consider adding ethical and human components into my models.
-  Good discussion about speeding up stochastic statistical models.
-benefit_to_users: Knowing how to implement stochastical models in an efficient manner could
-  be useful on client projects. Also an awareness of keeping models fair is very important.
+activity_description: | 
+  A talk from Edmund Ryan on predicting future repayment patterns of portfolios of non-performing debt.
+benefit_to_practice: | 
+  I found it interesting that Edmund's statistical model considered fairness as well as profitability, setting a minimum repayment of £1 per month.
+  This made my reflect on the importance of adding ethical and human components into statistical models.
+  There was a good discussion about methods for speeding up stochastic statistical models.
+benefit_to_users: | 
+  Knowing how to implement stochastical models in an efficient manner could be useful on client projects.
+  Also an awareness of keeping models fair and ethical is very important.

@@ -5,15 +5,14 @@ end_date: '2019-03-22'
 activity_url: ''
 learning_hours: '3'
 tags: ''
-activity_description: Callum is a Computer Science student who is on placement at
-  Digital Rail. it was my responsibility to supervise him and project manage his work.
-benefit_to_practice: I had to manage Callum's research project, ensuring he was on
-  task, supporting both technically and emotionally. His project was written in a
-  programming language I do not use (Java Script) so we have to ensure we were communicating
-  well and often.Mentoring Callum helped me develop My supervision skills My project
-  planning skills My java script knowledge!
-benefit_to_users: Supervising Callum really helped me improve my project management
-  skills. I had to set small achievable tasks for Callum, and monitor them frequently
-  to ensure that the project was on track. Having strong project management skills
-  is a key aspect of the service I provide to my clients as I am often the project
-  lead.
+activity_description: |
+  Callum is a Computer Science student who is on placement at  Digital Rail. 
+  It was my responsibility to supervise him and project manage his work.
+benefit_to_practice: |
+  I had to manage Callum's research project, ensuring he was on task, supporting both technically and emotionally.
+  His project was written in a programming language I do not use (Java Script) so we have to ensure we were communicating well and often.
+  Mentoring Callum helped me develop my supervision skills, my project planning skills and my java script knowledge!
+benefit_to_users:  |
+  Supervising Callum really helped me improve my project management skills. 
+  I had to set small achievable tasks for Callum, and monitor them frequently to ensure that the project was on track.
+  Having strong project management skills is a key aspect of the service I provide to my clients as I am often the project lead.

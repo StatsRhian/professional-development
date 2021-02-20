@@ -3,19 +3,18 @@ activity_type: Professional activity
 start_date: '2019-03-01'
 end_date: '2019-03-01'
 activity_url: ''
-learning_hours: '0'
+learning_hours: '1.5'
 tags: ''
-activity_description: The Future of Applied Data Science – Prof Gordon BlairGordon
-  Blair, Distinguished Professor of Data Science, will share his thoughts on recent
-  changes in applied data science and current trends.Peer Challenges – Partner OrganisationsPresentations
-  will be delivered by a number of our partner organisations on an aspect of their
-  use of data science. The talks have taken one of the following themes- Current Challenge
-  An overview of a current challenge related to data science or analytics.- Solved
-  Challenge A data science/analytics problem that has been successfully addressed.-
-  Our Future with Data Science Similar to a ‘current challenge’ talk, but the speaker
-  will share a broader view of their plans for the use of data science within their
-  organisation.Building and Implementing Data Science Solutions – Dr Daniel PrinceWe
-  will hold an interactive exercise in the form of a solution building game to examine
-  the decisionsmade in tackling a data science challenge.
-benefit_to_practice: ASDF123
-benefit_to_users: ASDF123
+activity_description: | 
+  An afternoon of talks and activities focusing on the future of Applied Data Science.
+  Talk topics varied from explaining existing and solved problems in industry, to incorporating data science into future projects.
+  There was a workshop activity called "Building and Implementing Data Science Solutions" where we were given a data science problem
+  and had to build the right resources in terms of both skilled workers and infrastructure.
+benefit_to_practice: |
+  I found the workshop activity very enlightening and enjoyable. 
+  The process of building a team that could provide a suitable level of support was challenging and informative.
+  This made me reflect on which projects require highly skilled statisticians vs junior data scientists and the importance of a good project manager.
+  The talks introduced me a broad range of statistical challenges in industry.
+benefit_to_users: | 
+  Being able to select the best tools for the job in terms of both human resources and infrastructure is key to running a successful consultancy project.
+  
