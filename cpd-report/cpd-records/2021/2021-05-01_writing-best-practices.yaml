@@ -1,0 +1,16 @@
+title: Writing Best Practices
+activity_type: Work based learning
+start_date: '2021-05-01'
+end_date: '2021-05-01'
+activity_url: ''
+learning_hours: '6'
+tags: ''
+activity_description: |
+  Wrote a "best practices in coding" course.
+  In order to write the course I had to do a decent amount of research including academic papers, especially the work of Greg Wilson.
+  I also looked at blog posts and workshop materials.
+benefit_to_practice: |
+  Writing clean, reproducible code is a key part of being a developer.
+  Whilst researching and writing, my own coding standards increased dramatically.
+benefit_to_users: |
+  Being able to write clean code is a key part of being a developer.
