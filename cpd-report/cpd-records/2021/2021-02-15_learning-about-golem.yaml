@@ -3,7 +3,7 @@ activity_type: Work based learning
 start_date: '2021-02-15'
 end_date: '2021-02-19'
 activity_url: 'https://engineering-shiny.org/'
-learning_hours: '4'
+learning_hours: '5'
 tags: ''
 activity_description: |
   I am exploring a number of different frameworks in which to create shiny applications in a robust way.
