@@ -5,6 +5,7 @@ A list of work-related books to read :books:
 
 - [ ] [Advanced R](https://adv-r.hadley.nz/)
 - [ ] [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/)
+- [ ] [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/)
 - [ ] [Data Science in a Box](https://datasciencebox.org/)
 - [x] [Efficient R](https://csgillespie.github.io/efficientR/)
 - [ ] [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
