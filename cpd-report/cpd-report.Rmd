@@ -2,11 +2,11 @@
 title: "Continuing Professional Development Report"
 author: "Rhian Davies"
 output:
-   html_document:
-     theme: united
-     toc: true
-     toc_float: true
-     number_sections: true
+  html_document:
+    theme: united
+    toc: yes
+    toc_float: yes
+    number_sections: yes
 ---
 
 ```{r setup, include=FALSE}

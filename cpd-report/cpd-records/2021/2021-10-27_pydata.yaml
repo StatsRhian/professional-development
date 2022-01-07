@@ -1,0 +1,16 @@
+title: PyData Lancaster Meetups
+activity_type: Professional activity
+start_date: '2021-10-27'
+end_date: '2021-11-24'
+activity_url: 'https://www.meetup.com/PyData-Lancaster/'
+learning_hours: '3'
+tags: ''
+activity_description: |
+ I attended two PyData meetups in 2021. October had talks by Rebecca Killick and Simon Spavound.
+ November was  Naomi Lourie and Charlotte Smith. 
+benefit_to_practice: |
+  Rebecca's talk on R packages made me consider how to build packages which are simple to maintain. 
+  Naomi spoke about her first data science project. This helped me reflect as a manager on what projects I can get my
+  people working on, and to encourage them to share their experience of it early.
+benefit_to_users: |
+  PyData meetups allow me to stay well connected to both the latest approaches in data science, and networking connections across the North West.

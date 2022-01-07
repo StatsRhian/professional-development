@@ -3,11 +3,15 @@ activity_type: Self-directed learning
 start_date: '2021-09-01'
 end_date: '2021-09-01'
 activity_url: ''
-learning_hours: '5'
+learning_hours: '6'
 tags: ''
 activity_description: |
-  Review needed
+  I have been reading "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change" 
+  by Camille Fournier. I've been working through the activies at the end of each chapter, and 
+  discussing the contents with other senior data scientists.
 benefit_to_practice: |
-  Review needed
+  My role is starting to transition from a tech-lead to a more formal manager position.
+  This is a new area for me and so I'm keen to learn from the experienced of others.
+  In particular this book has shaped how I think about and approach one-to-one meetings.
 benefit_to_users: |
-  Review needed
+  If I can look after and support my people better, they should be happier and more efficient in their work for our clients.

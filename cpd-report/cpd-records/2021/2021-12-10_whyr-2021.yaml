@@ -1,0 +1,17 @@
+title: WhyR 2021
+activity_type: Professional activity
+start_date: '2021-12-10'
+end_date: '2021-12-10'
+activity_url: 'https://2021.whyr.pl/'
+learning_hours: '3'
+tags: ''
+activity_description: |
+  WhyR online one-day conference.
+  I watched half of the sessions and helped deliver a session on RStudio Connect.
+benefit_to_practice: |
+  Andrew's talk on R in Production gave me a good overview to having reliable, maintainable infrastructure
+  to support statistical models.
+  Anna's talk on How to be a Shiny developer helped me reflect on the skills that need to be developed in our teams at JR.
+benefit_to_users: |
+  When we deliver a statistical model to a client, we don't just handover the model, but also a way to interact with that model.
+  This usually involves providing some sort of infrastructure. It's important for this to be reliable and easy to maintain. 
