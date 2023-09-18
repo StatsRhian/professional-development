@@ -38,7 +38,7 @@ A list of work-related books to read :books:
 
 ### Career 💼
 
-- [Building Your Career as a Statistician](https://www.routledge.com/Building-Your-Career-as-a-Statistician-A-Practical-Guide-to-Longevity/Mallinckrodt/p/book/9781032368795)
+- [ ] [Building Your Career as a Statistician](https://www.routledge.com/Building-Your-Career-as-a-Statistician-A-Practical-Guide-to-Longevity/Mallinckrodt/p/book/9781032368795)
 
 ### Visualistation :art:
 
