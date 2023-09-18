@@ -36,11 +36,17 @@ A list of work-related books to read :books:
 - [ ] [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 - [ ] [The Unix Workbench](https://seankross.com/the-unix-workbench/index.html)
 
+### Career 💼
+
+- [Building Your Career as a Statistician](https://www.routledge.com/Building-Your-Career-as-a-Statistician-A-Practical-Guide-to-Longevity/Mallinckrodt/p/book/9781032368795)
+
 ### Visualistation :art:
 
 - [ ] [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [ ] [Presenting Data: How to Communicate Your Message Effectively](https://www.goodreads.com/book/show/20914483-presenting-data?from_search=true&from_srp=true&qid=FYGJKwnpok&rank=5)
 - [ ] [Data Visualisation](https://socviz.co/)
+- [ ] [Better Data Visualization](https://www.amazon.co.uk/Better-Data-Visualizations-Scholars-Researchers/dp/0231193114)
+- [ ] [Telling stories with data](https://tellingstorieswithdata.com/)
 
 ### Teaching :mortar_board:
 
