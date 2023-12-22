@@ -22,7 +22,7 @@ df = import_cpd(path = "cpd-records")
 
 # Overall summary
 
-This document contains a record of my Continuous Professional Development activities. I work as a Data Scientist and Statistician at [Jumping Rivers](www.jumpingrivers.com). 
+This document contains a record of my Continuous Professional Development activities.
 
 CPD should be a key part of a professional statistician's work ethic. CPD means the development of the "whole person" statistical and non-statistical, technical and personal. CPD evaluation is essentially a self-assessment process.
 
@@ -59,7 +59,7 @@ years = sort(unique(df$year), decreasing = TRUE)
 
 md = lapply(years, function(y) {
   knitr::knit_child(
-    'annual-template.Rmd', envir = environment(), quiet = TRUE
+    'annual-template.qmd', envir = environment(), quiet = TRUE
   )
 })
 
