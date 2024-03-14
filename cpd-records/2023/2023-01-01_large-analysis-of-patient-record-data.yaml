@@ -1,0 +1,14 @@
+title: Large analysis of patient record data
+activity_type: Work based learning
+start_date: '2023-01-01'
+end_date: '2023-06-01'
+activity_url: ''
+learning_hours: '6'
+tags: ''
+activity_description: |
+  I was involved in a very large project analysing patient records for a specific disease. I had to learn more about the specific disease, and the appropriate analysis techniques.
+  I also had to design a workflow that would allow our German analyst to run the analysis seperately and then allow use to recombine the data at a later date. 
+benefit_to_practice: |
+  This was a complex project and I learned a lot about how to handle a large codebase which deals with sensitive data. 
+benefit_to_users: |
+  The experience gained in this project has directly influenced the way I approach new programmatic statistical analysis projects.

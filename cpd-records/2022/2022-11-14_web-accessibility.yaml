@@ -1,0 +1,16 @@
+title: Web Accessibility
+activity_type: Work based learning
+start_date: '2022-11-14'
+end_date: '2022-12-20'
+activity_url: ''
+learning_hours: '6'
+tags: ''
+activity_description: |
+  I developed an app for a client and they wanted me to ensure the app met WGAC 2.1 standard.
+  I learned about the standards, and how to implement things like skip links in Shiny applications. 
+  I also learned the importance of correct header ordering. 
+benefit_to_practice: |
+  I was aware of some basics around web accessibility, but this project forced me to delve deeper into the details of the standard. 
+  I also learned some tools which can help me check my apps in future e.g. Lighthouse
+benefit_to_users: |
+  As a developer of user tools, it's important I build tools which are accessible for all.

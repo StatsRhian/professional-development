@@ -1,0 +1,13 @@
+title: Shiny bookclub
+activity_type: Work based learning
+start_date: '2023-01-01'
+end_date: '2023-02-28'
+activity_url: ''
+learning_hours: '2'
+tags: ''
+activity_description: |
+  Russ organised an internal bookclub in work for Shiny. We talked about SASS, shinytest2 and did a review of a shiny application.
+benefit_to_practice: |
+  Building efficient, robust, professional shiny applications is a key part of my work at Jumping Rivers. Russ taught me some tools which will be very useful in future projects.
+benefit_to_users: |
+  We also discussed and critqued user interfaces for shiny applications which is a key aspect for our end users.
