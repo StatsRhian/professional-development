@@ -1,0 +1,15 @@
+title: Interrupted Time Series
+activity_type: Work based learning
+start_date: '2022-05-12'
+end_date: '2022-12-05'
+activity_url: ''
+learning_hours: '3'
+tags: ''
+activity_description: |
+  ITS analysis was required for a project at work. I had not done this before.
+  Effectively it involves looking at statistical properties of time series before and after an "interruption".
+  I researched about the approach, in particular the assumptions about sample size.
+benefit_to_practice: |
+  ITS is another analysis in my toolbox that I can use. 
+benefit_to_users: |
+  ITS is often used in official statistics analysis. It's also quite simple to understand and interpret.

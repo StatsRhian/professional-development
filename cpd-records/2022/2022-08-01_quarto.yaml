@@ -1,0 +1,15 @@
+title: Quarto
+activity_type: Self-directed learning
+start_date: '2022-08-01'
+end_date: '2022-08-01'
+activity_url: ''
+learning_hours: '6'
+tags: ''
+activity_description: |
+  Quarto is the new tool for automated reporting. As this is a key part of my work, I took time in August to learn more about the features in depth.
+  This then led into workshop that I delivered at the RSS conference in September.
+benefit_to_practice: |
+  Quarto is a tool I now use weekly to write reports and presentations.
+  Taking the time to learn the new features in depth helped me quickly transition from R Markdown to Quaro.
+benefit_to_users: |
+  Quarto is a tool that my clients will be asking about soon for writing statistical reports. 

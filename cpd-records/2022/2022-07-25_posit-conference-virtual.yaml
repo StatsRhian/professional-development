@@ -1,0 +1,14 @@
+title: Posit Conference (virtual)
+activity_type: Professional activity
+start_date: '2022-07-25'
+end_date: '2022-07-25'
+activity_url: 'https://www.jumpingrivers.com/blog/highlights-rstudioconf2022/'
+learning_hours: '6'
+tags: ''
+activity_description: |
+  There were some major updates announced at this conferences. I watched a couple of the talks, and went away to learn more about the tools afterwards.
+  The two big announcements were Quarto & Shiny for Python.
+benefit_to_practice: |
+  Quarto as RMarkdown v2 solves a number of problems I've had an an educator, particularly across multiple languages. 
+benefit_to_users: |
+  Quarto is a modern way for automating reports. With this tool, I'll be able to deliver reproducbile reports to my clients.
