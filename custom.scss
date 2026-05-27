@@ -1,0 +1,9 @@
+/*-- scss:defaults --*/
+$primary: #FAAB18;
+$link-color: #c47f00;  /* darker shade for accessible contrast */
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+.navbar, .sidebar {
+  border-bottom: 3px solid $primary;
+}

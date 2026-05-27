@@ -1,61 +1,55 @@
 # Detailed Report: `r y`
 
 ```{r}
-df_mini = 
-  df  %>% 
-  filter(year == y)
+df_mini <- df |>
+  dplyr::filter(year == y)
 
+total_hours  <- sum(df_mini$`Learning hours`, na.rm = TRUE)
+n_categories <- length(unique(df_mini$`Activity type`))
 ```
 
-In `r y` I completed `r sum(df_mini$learning_hours)` hours of CPD training, across `r length(unique(df_mini$activity_type))` categories.
-
+In `r y` I completed `r total_hours` hours of CPD training, across `r n_categories` categories.
 
 ```{r}
-df_mini %>% 
-  group_by(activity_type) %>% 
-  summarise(total_hours = sum(learning_hours)) %>%
-  arrange(desc(total_hours)) %>% 
-  gt() %>% 
-  cols_label(
-    activity_type = md("**Activity Type**"),
-    total_hours = md("**Learning Hours**")
-  ) %>% 
-  grand_summary_rows(
-    columns = vars(total_hours),
-    fns = list(
-      Total = ~sum(.)),
-    formatter = fmt_number,
-    use_seps = FALSE
+df_mini |>
+  dplyr::group_by(`Activity type`) |>
+  dplyr::summarise(total_hours = sum(`Learning hours`, na.rm = TRUE)) |>
+  dplyr::arrange(dplyr::desc(total_hours)) |>
+  gt::gt() |>
+  gt::cols_label(
+    `Activity type` = gt::md("**Activity Type**"),
+    total_hours     = gt::md("**Learning Hours**")
+  ) |>
+  gt::grand_summary_rows(
+    columns = c(total_hours),
+    fns = list(Total = ~ sum(.)),
+    fmt = ~ gt::fmt_number(., use_seps = FALSE)
   )
 ```
 
-## Benefits Gained report
+## Benefits Gained
 
 ```{r}
-df_mini %>% 
-  #arrange(start_date) %>%
-  select(title, learning_hours, activity_description, benefit_to_practice, benefit_to_users) %>% 
-  gt() %>% 
-  tab_options(
-    table.width = pct(100)
-  ) %>%
-  cols_label(
-    title = md("**Title**"),
-    learning_hours = md("**Learning Hours**"),
-    activity_description = md("**Activity Description**"),
-    benefit_to_practice = md("**Benefit to Practice**"), 
-    benefit_to_users = md("**Benefit to Users**")
-  )  %>% 
-  cols_width(
-    vars(title) ~ px(80),
-    vars(learning_hours) ~ px(80),
-    vars(activity_description) ~ px(150),
-    starts_with("Benefit") ~ px(245),
-  ) %>%
-  tab_style(
-    style = cell_text(size = px(11)),
-    locations = cells_body(
-      columns = everything()
-    )
-  ) 
+df_mini |>
+  dplyr::select(Title, `Learning hours`, Description, `Benefit to practice`, `Benefit to users`) |>
+  gt::gt() |>
+  gt::tab_options(table.width = gt::pct(100)) |>
+  gt::cols_label(
+    Title                 = gt::md("**Title**"),
+    `Learning hours`      = gt::md("**Learning Hours**"),
+    Description           = gt::md("**Description**"),
+    `Benefit to practice` = gt::md("**Benefit to Practice**"),
+    `Benefit to users`    = gt::md("**Benefit to Users**")
+  ) |>
+  gt::cols_width(
+    Title                 ~ gt::px(80),
+    `Learning hours`      ~ gt::px(80),
+    Description           ~ gt::px(150),
+    `Benefit to practice` ~ gt::px(245),
+    `Benefit to users`    ~ gt::px(245)
+  ) |>
+  gt::tab_style(
+    style     = gt::cell_text(size = gt::px(11)),
+    locations = gt::cells_body(columns = dplyr::everything())
+  )
 ```
